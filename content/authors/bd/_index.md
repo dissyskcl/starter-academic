@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Pierpaolo Vivo
-weight: 15
-role: Reader
+title: Benjamin Doyon
+weight: 10
+role: Professor of Theoretical Physics
 
 # Is this the primary user of the site?
 superuser: false
@@ -20,18 +20,19 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Random matrix theory
-- Applications of statistical physics to socio-economical sciences
+- Integrable quantum field theory
+- Conformal field theory
+- Entanglement entropy and out-of-equilibrium quantum systems
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Physics
-    institution: Brunel University
-    year: 2008
+    institution: Rutgers University
+    year: 2004
   - course: MSc in Physics
-    institution: University of Parma
-    year: 2005
+    institution: Université Laval
+    year: 1998
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,13 +44,10 @@ social:
 #  link: '/#contact'
 - icon: envelope
   icon_pack: fas
-  link: mailto:pierpaolo.vivo@kcl.ac.uk
+  link: mailto:benjamin.doyon@kcl.ac.uk
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=OkLTFBIAAAAJ
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/PierpaoloVivo
+  link: https://scholar.google.com/citations?user=XvuFQYkAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -65,8 +63,9 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "pierpaolo.vivo@kcl.ac.uk"
+email: "benjamin.doyon@kcl.ac.uk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Yan Fyodorov received a PhD in Theoretical & Mathematical Physics from the Petersburg Nuclear Physics Institute in 1988. He held post-doctoral positions at the University of Duisburg-Essen and the Weizmann Institute of Science, and Professorships at Brunel University, University of Nottingham, and Queen Mary University. He held significant visiting positions at Cologne University as Bessel Research Awardee (2006/7); the Isaac Newton Institute, Cambridge, as Leverhulme Research Fellow (2008); as well at École normale supérieure, Paris (2010); Instut Henri Poincaré, Paris (2012); and Institute for Advanced Studies, Princeton (2013). He joined the Mathematics Department at King's in June 2016.

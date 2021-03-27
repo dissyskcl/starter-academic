@@ -4,11 +4,12 @@ widget: people
 weight: 21
 headless: true  # This file represents a page section.
 
-title: The group
+title: Meet the group
 
 content:
-  authors:
-  - pv
+  #authors:
+  #- pv
+  #- gs
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
 
   user_groups:

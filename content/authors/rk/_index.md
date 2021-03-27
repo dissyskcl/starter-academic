@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Pierpaolo Vivo
-weight: 15
-role: Reader
+title: Reimer Kühn
+weight: 10
+role: Professor of Statistical Physics
 
 # Is this the primary user of the site?
 superuser: false
@@ -20,18 +20,19 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Random matrix theory
-- Applications of statistical physics to socio-economical sciences
+  - Low Temperature Properties of Glasses
+  - Phase Transitions in Disordered Systems
+  - Neural Networks
+  - Risk Modeling
+  - Random Matrices
+  - Networks
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Physics
-    institution: Brunel University
-    year: 2008
-  - course: MSc in Physics
-    institution: University of Parma
-    year: 2005
+    institution: Kiel University
+    year: 1987
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,13 +44,10 @@ social:
 #  link: '/#contact'
 - icon: envelope
   icon_pack: fas
-  link: mailto:pierpaolo.vivo@kcl.ac.uk
+  link: mailto:reimer.kuehn@kcl.ac.uk
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=OkLTFBIAAAAJ
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/PierpaoloVivo
+  link: https://scholar.google.com/citations?user=Tbn1x20AAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -65,7 +63,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "pierpaolo.vivo@kcl.ac.uk"
+email: "reimer.kuehn@kcl.ac.uk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
