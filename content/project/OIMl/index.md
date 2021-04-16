@@ -1,8 +1,9 @@
 ---
-title: Random Matrix Theory
-summary: Theory and prectice
+title: Optimization, inference and learning
+summary: Tools from the theory of disordered systems for learning and inference
 tags:
-- Random Matrix Theory
+- Optimization
+- Inference and learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

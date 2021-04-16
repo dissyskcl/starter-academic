@@ -1,12 +1,12 @@
 ---
 title: On eigenvector statistics in non-normal random matrices
-
+external_link: "https://www.youtube.com/watch?v=3OOK651z8jc"
 event: CMI-HIMR Integrable Probability Online Summer School
 event_url: https://web-eur.cvent.com/event/44bdce4a-9414-4c7f-928f-4ea3e4985835/summary?rp=00000000-0000-0000-0000-000000000000
 
 location: Clay Mathematics Institute
 
-summary: "I will discuss some results, both old and more recent, on 'non-orthogonality overlap matrix' between left and right eigenvectors of non-normal random matrices. Motivations range from understanding eigenvalue dynamics under matrix perturbations to relevance for random matrix models describing chaotic wave scattering.  "
+summary: "Yan Fyodorov discusses some results, both old and more recent, on 'non-orthogonality overlap matrix' between left and right eigenvectors of non-normal random matrices. Motivations range from understanding eigenvalue dynamics under matrix perturbations to relevance for random matrix models describing chaotic wave scattering.  "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -53,5 +53,4 @@ projects:
 - RMT
 ---
 {{< youtube 3OOK651z8jc >}}
-\
 *I will discuss some results, both old and more recent, on 'non-orthogonality overlap matrix' between left and right eigenvectors of non-normal random matrices. Motivations range from understanding eigenvalue dynamics under matrix perturbations to relevance for random matrix models describing chaotic wave scattering.*

@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Projects
 cms_exclude: true
 math: true
 

@@ -1,7 +1,7 @@
 ---
 active: true
 widget: people
-weight: 21
+weight: 22
 headless: true  # This file represents a page section.
 
 title: Meet the group
