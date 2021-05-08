@@ -1,7 +1,7 @@
 ---
 active: true
 widget: people
-weight: 22
+weight: 27
 headless: true  # This file represents a page section.
 
 title: Meet the group
@@ -14,7 +14,7 @@ content:
 
   user_groups:
   - Faculty
-  - PhD
+  - PhD Students
 
 design:
   columns: '3'

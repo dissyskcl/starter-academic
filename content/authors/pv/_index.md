@@ -2,7 +2,7 @@
 # Display name
 title: Pierpaolo Vivo
 weight: 15
-role: Reader
+role: Reader in Disordered Systems
 
 # Is this the primary user of the site?
 superuser: false
@@ -50,6 +50,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/PierpaoloVivo
+- icon: file-alt
+  icon_pack: far
+  link: https://kclpure.kcl.ac.uk/portal/en/persons/pierpaolo-vivo(3a1365fb-b185-4ca8-9145-1319b6a64c4f).html
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen

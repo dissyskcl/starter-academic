@@ -42,6 +42,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '/#contact'
+- icon: user
+  icon_pack: fas
+  link: https://gabrielesicuro.wordpress.com/
 - icon: envelope
   icon_pack: fas
   link: mailto:gabriele.sicuro@kcl.ac.uk
@@ -51,6 +54,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/gabrielescr
+- icon: file-alt
+  icon_pack: far
+  link: https://kclpure.kcl.ac.uk/portal/gabriele.sicuro.html
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen

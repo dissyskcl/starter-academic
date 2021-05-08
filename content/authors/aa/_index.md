@@ -44,12 +44,18 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '/#contact'
+- icon: user
+  icon_pack: fas
+  link: https://nms.kcl.ac.uk/alessia.annibale/
 - icon: envelope
   icon_pack: fas
   link: mailto:alessia.annibale@kcl.ac.uk
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=sOJlqloAAAAJ
+- icon: file-alt
+  icon_pack: far
+  link: https://kclpure.kcl.ac.uk/portal/alessia.annibale.html
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen

@@ -7,21 +7,28 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: People
-    url: '#people'
+  - name: Education
+    url: '#education'
     weight: 20
   - name: News
     url: '#news'
     weight: 30
+  - name: People
+    url: '#people'
+    weight: 40
   - name: Projects
     url: '#projects'
-    weight: 40
+    weight: 50
+  - name: Lectures
+    url: '#lectures'
+    weight: 70
   - name: Talks
     url: '#talks'
-    weight: 50
+    weight: 70
   - name: Publications
-    url: '#featured'
-    weight: 60
+    #url: '#publications'
+    url: https://kclpure.kcl.ac.uk/portal/en/organisations/disordered-systems(b3cae6b4-2333-4684-9f56-84eaf58fff44).html
+    weight: 80
 #  - name: Contact
 #    url: '#contact'
 #    weight: 70

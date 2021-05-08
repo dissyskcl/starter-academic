@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Yan Fyodorov
-weight: 10
+weight: 5
 role: Chair in Disordered Systems
 
 # Is this the primary user of the site?
@@ -47,6 +47,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ro22Zh8AAAAJ
+- icon: file-alt
+  icon_pack: far
+  link: https://kclpure.kcl.ac.uk/portal/yan.fyodorov.html
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen

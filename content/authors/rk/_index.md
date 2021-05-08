@@ -42,12 +42,18 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '/#contact'
+- icon: user
+  icon_pack: fas
+  link: https://nms.kcl.ac.uk/reimer.kuehn/
 - icon: envelope
   icon_pack: fas
   link: mailto:reimer.kuehn@kcl.ac.uk
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Tbn1x20AAAAJ
+- icon: file-alt
+  icon_pack: far
+  link: https://kclpure.kcl.ac.uk/portal/reimer.kuehn.html
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen

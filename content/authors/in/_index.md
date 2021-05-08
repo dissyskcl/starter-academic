@@ -43,12 +43,18 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '/#contact'
+- icon: user
+  icon_pack: fas
+  link: https://www.izaakneri.com/
 - icon: envelope
   icon_pack: fas
   link: mailto:izaak.neri@kcl.ac.uk
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=FyimJsAAAAAJ
+- icon: file-alt
+  icon_pack: far
+  link: https://kclpure.kcl.ac.uk/portal/izaak.neri.html
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen

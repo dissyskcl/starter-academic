@@ -6,7 +6,7 @@ event_url: https://web-eur.cvent.com/event/44bdce4a-9414-4c7f-928f-4ea3e4985835/
 
 location: Clay Mathematics Institute
 
-summary: "Yan Fyodorov discusses some results, both old and more recent, on 'non-orthogonality overlap matrix' between left and right eigenvectors of non-normal random matrices. Motivations range from understanding eigenvalue dynamics under matrix perturbations to relevance for random matrix models describing chaotic wave scattering.  "
+summary: "**Yan Fyodorov** discusses some results, both old and more recent, on 'non-orthogonality overlap matrix' between left and right eigenvectors of non-normal random matrices. Motivations range from understanding eigenvalue dynamics under matrix perturbations to relevance for random matrix models describing chaotic wave scattering.  "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -35,7 +35,6 @@ featured: false
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
-url_video: "https://www.youtube.com/watch?v=3OOK651z8jc"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -49,8 +48,8 @@ url_video: "https://www.youtube.com/watch?v=3OOK651z8jc"
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- RMT
+#projects:
+#- RMT
 ---
 {{< youtube 3OOK651z8jc >}}
 *I will discuss some results, both old and more recent, on 'non-orthogonality overlap matrix' between left and right eigenvectors of non-normal random matrices. Motivations range from understanding eigenvalue dynamics under matrix perturbations to relevance for random matrix models describing chaotic wave scattering.*
