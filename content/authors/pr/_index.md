@@ -2,7 +2,7 @@
 # Display name
 title: Paola Ruggero
 weight: 30
-role: Lecturr in Disordered Systems
+role: Lecturer in Disordered Systems
 
 # Is this the primary user of the site?
 superuser: false
@@ -20,7 +20,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Entanglement measures in many-body systems, Quantum Field Theory methods, Disordered many-body systems
+- Entanglement measures in many-body systems, QFT methods, Disordered many-body systems
 
 # Education to show in About widget
 education:
