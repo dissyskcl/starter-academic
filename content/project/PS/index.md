@@ -1,6 +1,6 @@
 ---
 title: Physical Systems
-summary: TBA
+#summary: TBA
 tags:
 - Random Matrix Theory
 date: "2016-04-27T00:00:00Z"

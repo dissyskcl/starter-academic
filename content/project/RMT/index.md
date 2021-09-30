@@ -1,6 +1,6 @@
 ---
 title: Sparse Symmetric Random Matrices
-summary: TBA
+#summary: TBA
 tags:
 - Random Matrix Theory
 date: "2016-04-27T00:00:00Z"
@@ -30,4 +30,4 @@ url_video: ""
 slides: ""
 ---
 
-A collaboration between group members Kuehn and Perez Castillo and international collaborators also led to a breakthrough in the spectral problem for sparse symmetric random matrices, allowing to efficiently compute spectral densities of such systems in the limit of large matrix size to any desired accuracy -- more than 20 years after a solution to this problem was first attempted.
+A collaboration between group members prof. Reimer Kuehn and Dr. Perez Castillo and international collaborators also led to a breakthrough in the spectral problem for sparse symmetric random matrices, allowing to efficiently compute spectral densities of such systems in the limit of large matrix size to any desired accuracy -- more than 20 years after a solution to this problem was first attempted.

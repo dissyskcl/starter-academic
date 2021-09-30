@@ -40,3 +40,6 @@ design:
   view: 3
   columns: '2'
 ---
+
+<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/KCLDisSyst?ref_src=twsrc%5Etfw">Tweets by KCLDisSyst</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/kclmathematics?ref_src=twsrc%5Etfw">Tweets by kclmathematics</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

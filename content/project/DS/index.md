@@ -1,8 +1,8 @@
 ---
 title: Disordered systems
-summary: TBA
+#summary: TBA
 tags:
-- Random Matrix Theory
+- Disordered Systems
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
