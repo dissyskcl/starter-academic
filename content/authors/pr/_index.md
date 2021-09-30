@@ -2,7 +2,7 @@
 # Display name
 title: Paola Ruggero
 weight: 30
-role: Lecturer in Disordered Systems
+role: Lecturr in Disordered Systems
 
 # Is this the primary user of the site?
 superuser: false
