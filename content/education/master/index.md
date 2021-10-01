@@ -38,6 +38,21 @@ authors:
 
 ---
 
+<div class="row">
+  <div class="col-sm-5">
+      <div class="card-body">
+        <h6 class="card-title">Programme Director</h6>
+        <a href="mailto:benjamin.doyon@kcl.ac.uk" class="card-text"> Dr. Benjamin Doyon</a>
+      </div>
+  </div>
+  <div class="col-sm-7">
+      <div class="card-body">
+        <h6 class="card-title">Assessment Sub Board Chair</h6>
+        <a href="mailto:yan.fyodorov@kcl.ac.uk" class="card-text"> Prof. Yan Fyodorov</a>
+      </div>
+  </div>
+</div>
+
 The **MSc Complex System Modelling** is run by the Disordered Systems group, one of the research groups in the Department of Mathematics at KCL, in collaboration with the [Financial Mathematics group](https://www.kcl.ac.uk/research/financial-maths) and the Departments of [Informatics](https://www.kcl.ac.uk/informatics) and [Physics](https://www.kcl.ac.uk/physics).
 
 {{< youtube fS5sHGW5PEw >}}
