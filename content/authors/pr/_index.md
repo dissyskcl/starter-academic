@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Paola Ruggero
+title: Paola Ruggiero
 weight: 30
 role: Lecturer in Disordered Systems
 
