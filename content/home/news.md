@@ -10,7 +10,7 @@ headless: true
 weight: 23
 
 title: 'News & Events'
-subtitle:
+subtitle: 'Last news from the group: conferences, workshops and publications'
 
 content:
   # Page type to display. E.g. post, event, publication...

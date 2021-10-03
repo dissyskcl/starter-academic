@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Urtė Adomaityte
+title: Urtė Adomaitytė
 weight: 5
 role: PhD Student
 

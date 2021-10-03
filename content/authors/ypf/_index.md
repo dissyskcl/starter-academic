@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yanik-Pascal Foerster
+title: Yanik-Pascal Förster
 weight: 5
 role: PhD Student
 

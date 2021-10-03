@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: 'Lectures'
-subtitle:
+title: 'Minicourses'
+subtitle: A collection of minicourses given by members of the group on our fundamental research topics
 
 content:
   # Page type to display. E.g. post, event, publication...
