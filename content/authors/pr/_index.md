@@ -66,3 +66,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+Paola Ruggiero did her undergraduate studies in Italy at University of Pisa, where she graduated in 2014. She got her PhD degree in 2019 at SISSA (International School for Advanced Studies), under the supervision of prof. Calabrese, working on various aspects of many-body quantum systems (ranging from entanglement properties to dynamical aspects of clean and disordered systems). After that she spent two years at University of Geneva as a postdoc fellow in the group lead by prof. Giamarchi. She was appointed a lectureship at King’s College London from October 2021.

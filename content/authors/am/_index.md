@@ -1,14 +1,14 @@
 ---
 # Display name
 title: Andrea Mambuca
-weight: 5
-role: PhD Student
+weight: 2021
+role: PhD 2021
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-user_groups: ["PhD Students"]
+user_groups: ["Alumni"]
 
 
 # Organizations/Affiliations to show in About widget
@@ -20,18 +20,16 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Working with Chiara Cammarota
-#  - Out of equilibrium dynamics
-#  - Real world networks
-#  - Graph dynamics
-#  - Stochastic processes
-
+#  - Working with 
+  - "**New results on the stability of large antagonistic systems on complex networks: a random matrix approach**" 
+  - supervised by I. Neri and C. Cammarota
+  
 # Education to show in About widget
-#education:
-#  courses:
-#  - course: PhD in Physics
-#    institution: King's College London
-#    year: 2007
+education:
+  courses:
+  - course: PhD in Physics
+    institution: King's College London
+    year: 2007
 #  - course: MSc in Physics
 #    institution: Sapienza Università di Roma
 #    year: 2003
@@ -40,13 +38,13 @@ interests:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
+#social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '/#contact'
-- icon: envelope
-  icon_pack: fas
-  link: mailto:andrea.mambuca@kcl.ac.uk
+#- icon: envelope
+#  icon_pack: fas
+#  link: mailto:andrea.mambuca@kcl.ac.uk
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=sOJlqloAAAAJ
