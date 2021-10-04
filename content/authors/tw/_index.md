@@ -19,12 +19,12 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-#interests:
-#  - Working with Chiara Cammarota, Nishanth Sastry and Reimer Kühn
-#  - Out of equilibrium dynamics
-#  - Real world networks
-#  - Graph dynamics
-#  - Stochastic processes
+interests:
+- Quantum chromodynamics and Lattice gauge theory  
+- Statistical Mechanics of Disordered Systems 
+- Quantum Chaos and Scattering 
+- Random Landscapes and Fields 
+- Anderson Localisation
 
 # Education to show in About widget
 #education:
@@ -50,9 +50,9 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=sOJlqloAAAAJ
-#- icon: file-alt
-#  icon_pack: far
-#  link: https://kclpure.kcl.ac.uk/portal/alessia.annibale.html
+- icon: file-alt
+  icon_pack: far
+  link: https://kclpure.kcl.ac.uk/portal/tim.wurfel.html
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
