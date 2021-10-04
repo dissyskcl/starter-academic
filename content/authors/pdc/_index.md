@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Stefano De Nicola
+title: Pablo Souza De Castro Melo
 weight: 2019
 role: PhD 2019
 
@@ -20,16 +20,19 @@ organizations:
 
 # Interests to show in About widget
 interests:
-#  - Working with 
-  - "[**A Stochastic Approach to Quantum Spin Systems**](https://kclpure.kcl.ac.uk/portal/files/138758580/2019_De_Nicola_Stefano_1434613_ethesis.pdf)" 
-  - supervised by J. Bhaseen and B. Doyon
-  
+  - "[**Phase separation of polydisperse fluids**](https://kclpure.kcl.ac.uk/portal/files/109667189/2019_Castro_Melo_Pablo_Souza_de_1452810_ethesis.pdf)" 
+  - supervised by P. Sollich, C. Cammarota and R. Kühn
+#  - Out of equilibrium dynamics
+#  - Real world networks
+#  - Graph dynamics
+#  - Stochastic processes
+
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Physics
-    institution: King's College London
-    year: 2007
+#education:
+#  courses:
+#  - course: PhD in Physics
+#    institution: King's College London
+#    year: 2007
 #  - course: MSc in Physics
 #    institution: Sapienza Università di Roma
 #    year: 2003
@@ -38,13 +41,13 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-#social:
+social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '/#contact'
 #- icon: envelope
 #  icon_pack: fas
-#  link: mailto:andrea.mambuca@kcl.ac.uk
+#  link: mailto:gioia.boschi@kcl.ac.uk
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=sOJlqloAAAAJ

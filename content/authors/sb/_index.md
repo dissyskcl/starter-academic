@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Anshul Verma
-weight: 2020
-role: PhD 2020
+title: Silvia Bartolucci
+weight: 2016
+role: PhD 2016
 
 # Is this the primary user of the site?
 superuser: false
@@ -20,16 +20,19 @@ organizations:
 
 # Interests to show in About widget
 interests:
-#  - Working with 
-  - "**Dimensionality Reduction in Econophysics**" 
-  - supervised by P. Vivo and T. Di Matteo
-  
+  - "[**A statistical mechanics model of the adaptive immune system: static and dynamical analysis in different regimes of connectivity**](https://kclpure.kcl.ac.uk/portal/files/57599768/2016_Bartolucci_Silvia_1258289_ethesis.pdf)" 
+  - supervised by A. Annibale and T. Coolen
+#  - Out of equilibrium dynamics
+#  - Real world networks
+#  - Graph dynamics
+#  - Stochastic processes
+
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Physics
-    institution: King's College London
-    year: 2007
+#education:
+#  courses:
+#  - course: PhD in Physics
+#    institution: King's College London
+#    year: 2007
 #  - course: MSc in Physics
 #    institution: Sapienza Università di Roma
 #    year: 2003
@@ -38,13 +41,13 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-#social:
+social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '/#contact'
 #- icon: envelope
 #  icon_pack: fas
-#  link: mailto:andrea.mambuca@kcl.ac.uk
+#  link: mailto:gioia.boschi@kcl.ac.uk
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=sOJlqloAAAAJ

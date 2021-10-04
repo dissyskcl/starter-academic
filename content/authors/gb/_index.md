@@ -1,14 +1,14 @@
 ---
 # Display name
 title: Gioia Boschi
-weight: 5
-role: PhD Student
+weight: 2020
+role: PhD 2020
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-user_groups: ["PhD Students"]
+user_groups: ["Alumni"]
 
 
 # Organizations/Affiliations to show in About widget
@@ -20,7 +20,8 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Working with Chiara Cammarota, Nishanth Sastry and Reimer Kühn
+  - "**Statistical Mechanics approaches to model opinion evolution and collective memory**" 
+  - supervised by C. Cammarota, N. Sastry and R. Kühn
 #  - Out of equilibrium dynamics
 #  - Real world networks
 #  - Graph dynamics
@@ -44,9 +45,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '/#contact'
-- icon: envelope
-  icon_pack: fas
-  link: mailto:gioia.boschi@kcl.ac.uk
+#- icon: envelope
+#  icon_pack: fas
+#  link: mailto:gioia.boschi@kcl.ac.uk
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=sOJlqloAAAAJ

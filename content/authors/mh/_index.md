@@ -22,7 +22,7 @@ organizations:
 interests:
 #  - Working with 
   - "[**Entanglement and fluctuations in one-dimensional quantum systems out of equilibrium**](https://kclpure.kcl.ac.uk/portal/files/86128060/2017_Hoogeveen_Marianne_1142502_ethesis.pdf)" 
-  - supervised by G. Watts and B. Doyon
+  - supervised by B. Doyon and G. Watts
   
 # Education to show in About widget
 #education:

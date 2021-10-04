@@ -22,7 +22,7 @@ organizations:
 interests:
 #  - Working with 
   - "[**Mixed-state correlation functions of twist fields in two dimensional integrable models of quantum field theory**](https://kclpure.kcl.ac.uk/portal/files/46416087/2015_Chen_Yixiong_0856364_ethesis.pdf)" 
-  - supervised by G. Watts and B. Doyon
+  - supervised by B. Doyon and G. Watts
   
 # Education to show in About widget
 #education:
