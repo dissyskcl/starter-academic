@@ -14,6 +14,7 @@ content:
 
   user_groups:
   - Faculty
+  - Postdoctoral researchers
   - PhD Students
 
 design:
