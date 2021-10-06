@@ -46,7 +46,7 @@ social:
 #  link: '/#contact'
 - icon: envelope
   icon_pack: fas
-  link: mailto:rashel.tublin@kcl.ac.uk
+  link: mailto:mark.j.crumpton@kcl.ac.uk
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=sOJlqloAAAAJ
@@ -68,7 +68,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "alessia.annibale@kcl.ac.uk"
+email: "mark.j.crumpton@kcl.ac.uk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
