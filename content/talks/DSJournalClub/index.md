@@ -2,6 +2,7 @@
 title: The Disordered Systems Group Journal Club
 event: Weekly Group Meeting of the group
 event_url: []
+weight: 5
 
 location: Online & Strand Campus
 

@@ -2,6 +2,7 @@
 title: The Group Research
 subtitle: A collection of seminars given by group members around the world
 event_url: []
+weight: 1
 
 location: Worldwide
 

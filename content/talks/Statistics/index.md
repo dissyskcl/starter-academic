@@ -3,7 +3,7 @@ title: The Statistics seminar series
 external_link: "https://mth.kcl.ac.uk/statistics/"
 event: CANES Meeting
 event_url: []
-weight: 1
+weight: 10
 
 location: KCL and Online
 
