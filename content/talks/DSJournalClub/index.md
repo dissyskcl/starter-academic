@@ -6,7 +6,7 @@ weight: 5
 
 location: Online & Strand Campus
 
-summary: "Our meetings in which we discuss our research, look at new results, and invite guest speakers from around the world."
+summary: "Our meetings in which we discuss our research, look at new results, and invite guest speakers."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
