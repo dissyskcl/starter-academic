@@ -55,6 +55,10 @@ image:
 ---
 <script defer src="/static/fontawesome/fontawesome-all.js"></script>
 
+<span style="color:Maroon">**10 November 2021**</span>\. **Stefano Sarao Mannelli** (UCL), *An Analytical Theory of Curriculum Learning in Teacher-Student Networks*.
+
+<span style="color:Maroon">**27 October 2021**</span>\. **Mohammed Osman** (KCL), *Scattering in chaotic cavities and the eigenvector overlaps of rank-one perturbations of the GOE/GUE*.
+
 <span style="color:Maroon">**23 June 2021**</span>\. **Andrea De Luca** (University of Cergy-Pontoise), *Spectral statistics in the thermodynamic limit of extended many-body quantum systems*.
 
 <span style="color:Maroon">**3 June 2021**</span>\. **Carmen Cabrera Arnau** (UCL), *Quantifying the impact of population size in urban areas*.
