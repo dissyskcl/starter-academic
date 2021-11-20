@@ -20,7 +20,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Working with Benjamin Doyon and Paola Ruggero
+  - Working with Benjamin Doyon and Paola Ruggiero
 #  - Out of equilibrium dynamics
 #  - Real world networks
 #  - Graph dynamics

@@ -42,7 +42,7 @@ social:
 #  link: https://gabrielesicuro.wordpress.com/
 - icon: envelope
   icon_pack: fas
-  link: mailto:paola.ruggero@kcl.ac.uk
+  link: mailto:paola.ruggiero@kcl.ac.uk
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.it/citations?user=Wfox1cgAAAAJ
