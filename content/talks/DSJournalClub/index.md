@@ -55,7 +55,14 @@ image:
 ---
 <script defer src="/static/fontawesome/fontawesome-all.js"></script>
 
+
+<span style="color:Maroon">**8 December 2021**</span>\. **Benjamin Walter** (SISSA), *Non-equilibrium dynamics of a colloid diffusing in a fluctuating field*.
+
+<span style="color:Maroon">**24 November 2021**</span>\. **Bertrand Lacroix A Chez Toine** (UCL), *Counting equilibria of complex dynamics*.
+
 <span style="color:Maroon">**10 November 2021**</span>\. **Stefano Sarao Mannelli** (UCL), *An Analytical Theory of Curriculum Learning in Teacher-Student Networks*.
+
+<span style="color:Maroon">**3 November 2021**</span>\. **Uzy Smilansky** (Weizmann institute), *Time-delay distribution on quantum graphs*.
 
 <span style="color:Maroon">**27 October 2021**</span>\. **Mohammed Osman** (KCL), *Scattering in chaotic cavities and the eigenvector overlaps of rank-one perturbations of the GOE/GUE*.
 
