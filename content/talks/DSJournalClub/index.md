@@ -58,7 +58,7 @@ image:
 
 <span style="color:Maroon">**8 December 2021**</span>\. **Benjamin Walter** (SISSA), *Non-equilibrium dynamics of a colloid diffusing in a fluctuating field*.
 
-<span style="color:Maroon">**24 November 2021**</span>\. **Bertrand Lacroix A Chez Toine** (UCL), *Counting equilibria of complex dynamics*.
+<span style="color:Maroon">**24 November 2021**</span>\. **Bertrand Lacroix A Chez Toine** (KCL), *Counting equilibria of complex dynamics*.
 
 <span style="color:Maroon">**10 November 2021**</span>\. **Stefano Sarao Mannelli** (UCL), *An Analytical Theory of Curriculum Learning in Teacher-Student Networks*.
 
