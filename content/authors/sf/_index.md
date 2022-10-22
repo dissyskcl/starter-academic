@@ -21,7 +21,7 @@ organizations:
 # Interests to show in About widget
 interests:
 #  - Working with 
-  - "[**Random Matrix Methods in Complex Systems Analysis**](https://kclpure.kcl.ac.uk/portal/files/156682727/2021_Belga_Fideli_Sirio_1661379_ethesis.pdf)" 
+  - "[**Random Matrix Methods in Complex Systems Analysis**](https://kclpure.kcl.ac.uk/portal/en/theses/random-matrix-methods-in-complex-systems-analysis(3c9917e5-8adc-44c7-b791-e61f82dcc349).html)" 
   - supervised by Y. Fyodorov
 
 # Education to show in About widget

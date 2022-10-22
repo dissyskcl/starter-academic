@@ -1,14 +1,14 @@
 ---
 # Display name
 title: Giuseppe Torrisi
-weight: 5
-role: PhD Student
+weight: 2022
+role: PhD 2022
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-user_groups: ["PhD Students"]
+user_groups: ["Alumni"]
 
 
 # Organizations/Affiliations to show in About widget
@@ -20,7 +20,8 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Working with Alessia Annibale and Reimer Kühn
+  - "[**Gene regulatory networks: insights from statistical mechanics and network theory**](https://kclpure.kcl.ac.uk/portal/en/theses/gene-regulatory-networks(36fb1c02-c584-4879-baf6-54f6cdb1044e).html)" 
+  - supervised by Alessia Annibale and Reimer Kühn
 #  - Out of equilibrium dynamics
 #  - Real world networks
 #  - Graph dynamics
@@ -44,9 +45,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/g-torr
-- icon: envelope
-  icon_pack: fas
-  link: mailto:giuseppe.torrisi@kcl.ac.uk
+#- icon: envelope
+#  icon_pack: fas
+#  link: mailto:giuseppe.torrisi@kcl.ac.uk
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=sOJlqloAAAAJ

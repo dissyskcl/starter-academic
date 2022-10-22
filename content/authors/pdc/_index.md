@@ -20,7 +20,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - "[**Phase separation of polydisperse fluids**](https://kclpure.kcl.ac.uk/portal/files/109667189/2019_Castro_Melo_Pablo_Souza_de_1452810_ethesis.pdf)" 
+  - "[**Phase separation of polydisperse fluids**](https://kclpure.kcl.ac.uk/portal/en/theses/phase-separation-of-polydisperse-fluids(ecce1a83-6681-4662-b883-a202a273b1ab).html)" 
   - supervised by P. Sollich, C. Cammarota and R. Kühn
 #  - Out of equilibrium dynamics
 #  - Real world networks

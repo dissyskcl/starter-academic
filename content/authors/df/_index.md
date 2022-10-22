@@ -21,7 +21,7 @@ organizations:
 # Interests to show in About widget
 interests:
 #  - Working with 
-  - "[**Ergodicity and localisation in mean field quantum systems**](https://kclpure.kcl.ac.uk/portal/files/127084468/2019_Facoetti_Davide_1473588_ethesis.pdf)" 
+  - "[**Ergodicity and localisation in mean field quantum systems**](https://kclpure.kcl.ac.uk/portal/en/theses/ergodicity-and-localisation-in-meanfield-quantum-systems(1d9d4aa5-21d0-47c5-a1b3-4c7f22b68fdd).html)" 
   - supervised by P. Vivo and J. Bhaseen
   
 # Education to show in About widget

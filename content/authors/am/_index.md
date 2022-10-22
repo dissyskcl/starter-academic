@@ -21,7 +21,7 @@ organizations:
 # Interests to show in About widget
 interests:
 #  - Working with 
-  - "**New results on the stability of large antagonistic systems on complex networks: a random matrix approach**" 
+  - "[**New results on the stability of large antagonistic systems on complex networks: a random matrix approach**](https://kclpure.kcl.ac.uk/portal/en/theses/new-results-on-the-stability-of-large-antagonistic-systems-on-complex-networks(0fed3201-b5dc-493e-93b1-1d5d11cedfd9).html)" 
   - supervised by I. Neri and C. Cammarota
   
 # Education to show in About widget

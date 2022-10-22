@@ -21,7 +21,7 @@ organizations:
 # Interests to show in About widget
 interests:
 #  - Working with 
-  - "**Statistical Mechanics Approach to Top Eigenpairs of Sparse Symmetric Random Matrices**" 
+  - "[**Statistical Mechanics Approach to Top Eigenpairs of Sparse Symmetric Random Matrices**](https://kclpure.kcl.ac.uk/portal/en/theses/statistical-mechanics-approach-to-top-eigenpairs-of-sparse-symmetric-random-matrices(24927df3-3a36-47ef-a5aa-aaf8b55d098e).html)"
   - supervised by P. Vivo and R. Kühn
   
 # Education to show in About widget

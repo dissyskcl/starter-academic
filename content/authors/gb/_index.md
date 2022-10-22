@@ -20,7 +20,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - "**Statistical Mechanics approaches to model opinion evolution and collective memory**" 
+  - "[**Statistical Mechanics approaches to model opinion evolution and collective memory**](https://kclpure.kcl.ac.uk/portal/en/theses/statistical-mechanics-approaches-to-model-opinion-evolution-and-collective-memory(dc5268d8-1bd3-41f7-ab58-85e26c7bb9ff).html)" 
   - supervised by C. Cammarota, N. Sastry and R. Kühn
 #  - Out of equilibrium dynamics
 #  - Real world networks

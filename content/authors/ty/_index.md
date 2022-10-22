@@ -21,7 +21,7 @@ organizations:
 # Interests to show in About widget
 interests:
 #  - Working with 
-  - "[**Large scale dynamics of integrable systems**](https://kclpure.kcl.ac.uk/portal/files/137224649/2020_Yoshimura_Takato_1434991_ethesis.pdf)" 
+  - "[**Large scale dynamics of integrable systems**](https://kclpure.kcl.ac.uk/portal/en/theses/large-scale-dynamics-of-integrable-systems(55712cfa-42fc-4859-80bf-2cea50f46873).html)" 
   - supervised by B. Doyon, J. Bhaseen and E. Shargorodsky
   
 # Education to show in About widget

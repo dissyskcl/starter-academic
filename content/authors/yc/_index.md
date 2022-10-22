@@ -21,7 +21,7 @@ organizations:
 # Interests to show in About widget
 interests:
 #  - Working with 
-  - "[**Mixed-state correlation functions of twist fields in two dimensional integrable models of quantum field theory**](https://kclpure.kcl.ac.uk/portal/files/46416087/2015_Chen_Yixiong_0856364_ethesis.pdf)" 
+  - "[**Mixed-state correlation functions of twist fields in two dimensional integrable models of quantum field theory**](https://kclpure.kcl.ac.uk/portal/en/theses/mixedstate-correlation-functions-of-twist-fields-in-twodimensional-integrable-models-of-quantum-field-theory(fcf5a346-7c3a-445e-b249-e66134815d25).html)" 
   - supervised by B. Doyon and G. Watts
   
 # Education to show in About widget

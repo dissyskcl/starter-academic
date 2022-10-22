@@ -20,7 +20,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - "[**A statistical mechanics model of the adaptive immune system: static and dynamical analysis in different regimes of connectivity**](https://kclpure.kcl.ac.uk/portal/files/57599768/2016_Bartolucci_Silvia_1258289_ethesis.pdf)" 
+  - "[**A statistical mechanics model of the adaptive immune system: static and dynamical analysis in different regimes of connectivity**](https://kclpure.kcl.ac.uk/portal/en/theses/a-statistical-mechanics-model-of-the-adaptive-immune-system(8b2a6f6d-ed30-4f14-80f2-0d95a8f3e365).html)" 
   - supervised by A. Annibale and T. Coolen
 #  - Out of equilibrium dynamics
 #  - Real world networks

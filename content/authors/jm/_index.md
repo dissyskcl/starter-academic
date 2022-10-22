@@ -21,7 +21,7 @@ organizations:
 # Interests to show in About widget
 interests:
 #  - Working with 
-  - "[**Fluctuations in non-equilibrium states: from quantum to classical**](https://kclpure.kcl.ac.uk/portal/files/136475406/2020_Myers_Jason_1511324_ethesis.pdf)" 
+  - "[**Fluctuations in non-equilibrium states: from quantum to classical**](https://kclpure.kcl.ac.uk/portal/en/theses/fluctuations-in-nonequilibrium-states(16a609a1-5f57-4f76-b1f5-d32dd0b7be48).html)" 
   - supervised by B. Doyon and J. Bhaseen
   
 # Education to show in About widget
