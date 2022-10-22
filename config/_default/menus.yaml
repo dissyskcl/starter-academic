@@ -13,6 +13,9 @@ main:
   - name: News
     url: '#news'
     weight: 30
+  - name: Events
+    url: '#events'
+    weight: 35
   - name: People
     url: '#people'
     weight: 40

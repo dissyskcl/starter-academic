@@ -7,10 +7,10 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 23
+weight: 24
 
-title: 'News'
-subtitle: 'Last news from the group'
+title: 'Events'
+subtitle: 'Conferences and workshops organised by the group'
 
 content:
   # Page type to display. E.g. post, event, publication...
@@ -40,14 +40,3 @@ design:
   view: 3
   columns: '2'
 ---
-<style>
-.mp{
-    width:50%;
-    float:left;
-    background-color: white;
-    }
-</style>
-<p>
-<p class="mp"> <a class="twitter-timeline" data-width="100%" data-height="400" href="https://twitter.com/KCLDisSyst?ref_src=twsrc%5Etfw">Tweets by KCLDisSyst</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p class="mp"><a class="twitter-timeline" data-width="100%" data-height="400" href="https://twitter.com/kclmathematics?ref_src=twsrc%5Etfw">Tweets by kclmathematics</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-</p>

@@ -1,5 +1,6 @@
 ---
 title: The Disordered Systems Group Journal Club
+subtitle: Record from January 2021
 event: Weekly Group Meeting of the group
 event_url: []
 weight: 5

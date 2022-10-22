@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Peter Sollich
+title: Ivan Tyukin
 weight: 10
-role: Professor of Statistical Mechanics
+role: Professor of Mathematical Data Science and Modelling
 
 # Is this the primary user of the site?
 superuser: false
@@ -20,22 +20,18 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Non-equilibrium statistical mechanics
-  - Soft matter
-  - Systems biology
-  - Bayesian inference
-  - Random Matrices
-  - Econophysics
+- Industrial Mathematics
+- Dynamical Systems
+- Adaptive Control
+- Neural Networks
+- Certified Artificial Intelligence
 
 # Education to show in About widget
 education:
   courses:
-  - course: MPhil
-    institution: Cambridge University
-    year: 1992
   - course: PhD in Physics
-    institution: Edinburgh University
-    year: 1995
+    institution: Catholic University of Leuven
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +41,18 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '/#contact'
+#- icon: user
+#  icon_pack: fas
+#  link: https://www.izaakneri.com/
 - icon: envelope
   icon_pack: fas
-  link: mailto:peter.sollich@kcl.ac.uk
+  link: mailto:ivan.tyukin@kcl.ac.uk
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=m2RVgR0AAAAJ
+  link: https://scholar.google.co.uk/citations?user=DFU2e3kAAAAJ
 - icon: file-alt
   icon_pack: far
-  link: https://kclpure.kcl.ac.uk/portal/peter.sollich.html
+  link: https://kclpure.kcl.ac.uk/portal/ivan.tyukin.html
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -69,7 +68,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "reimer.kuehn@kcl.ac.uk"
+email: "ivan.tyukin@kcl.ac.uk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
