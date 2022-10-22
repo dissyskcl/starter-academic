@@ -8,7 +8,7 @@ role: Professor of Mathematical Data Science and Modelling
 superuser: false
 
 # Role/position/tagline
-user_groups: ["Faculty"]
+user_groups: [""]
 
 
 # Organizations/Affiliations to show in About widget

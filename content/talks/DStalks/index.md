@@ -55,11 +55,19 @@ image:
 ---
 <script defer src="/static/fontawesome/fontawesome-all.js"></script>
 
+<a class="btn btn-primary btn-sm" href="https://www.youtube.com/watch?v=nwaQxr3ymwQ" role="button"> <i class="fab fa-youtube"></i> </a> <span style="color:Maroon">**8 September 2022**</span>\. **Benjamin Doyon**, *In every finite-range quantum spinchain linearised Euler hydrodynamic equations hold*. Talk given at the [*Théorie des champs conforme et systèmes quantiques à plusieurs corps*](http://www.crm.umontreal.ca/2022/Conformal22/index.php) conference.
+
+<a class="btn btn-primary btn-sm" href="https://www.youtube.com/watch?v=6E8pvgu8ICY" role="button"> <i class="fab fa-youtube"></i> </a> <span style="color:Maroon">**23 June 2022**</span>\. **Yan Fyodorov**, *A few results and conjectures on some product-ratio correlation functions of characteristic polynomials of β-Hermite ensembles*. Talk given at the [*50 Years of Number Theory and Random Matrix Theory*](https://www.ias.edu/math/events/50yntrmt) conference.
+
+<a class="btn btn-primary btn-sm" href="https://www.youtube.com/watch?v=6E8pvgu8ICY" role="button"> <i class="fab fa-youtube"></i> </a> <span style="color:Maroon">**14 June 2022**</span>\. **Izaak Neri**, *Thermodynamic Trade-off Relations Involving First-Passage Times*. Talk given at the [*Stochastic thermodynamics: recent developments*](https://www.icts.res.in/discussion-meeting/strd) conference.
+
 <a class="btn btn-primary btn-sm" href="https://www.youtube.com/watch?v=etZI4oHAcLo" role="button"> <i class="fab fa-youtube"></i> </a> <span style="color:Maroon">**15 April 2021**</span>\. **Izaak Neri**, *Dissipation bounds the moments of first-passage times of dissipative currents*. Talk given at the [*Interdisciplinary Challenges in Nonequilibrium Physics*](https://www.esi.ac.at/events/e412/) conference.
 
 <a class="btn btn-primary btn-sm" href="https://www.youtube.com/watch?v=LH9JitDAhF4" role="button"> <i class="fab fa-youtube"></i> </a> <span style="color:Maroon">**1 April 2021**</span>\. **Reimer Kühn**, *Spectra of Large Random Stochastic Matrices and relaxation in complex systems*. Talk given at the [*Workshop on Random Matrices and Random Systems*](https://www.ias.edu/math/wrmrs/agenda).
 
 <a class="btn btn-primary btn-sm" href="https://www.youtube.com/watch?v=3OOK651z8jc" role="button"> <i class="fab fa-youtube"></i> </a> <span style="color:Maroon">**24 July 2020**</span>\. **Yan Fyodorov**, *On eigenvector statistics in non-normal random matrices*. Talk given at the [*CMI-HIMR Integrable Probability Online Summer School*](https://web-eur.cvent.com/event/44bdce4a-9414-4c7f-928f-4ea3e4985835/summary?rp=00000000-0000-0000-0000-000000000000).
+
+<a class="btn btn-primary btn-sm" href="https://www.youtube.com/watch?v=AkK582eLwJ4" role="button"> <i class="fab fa-youtube"></i> </a> <span style="color:Maroon">**4 December 2019**</span>\. **Reimer Kühn**, *Gehirn und Gesellschaft - Eine Analogie*. Talk in German given at the [*Zentrum für interdisziplinäre Forschung*](https://www.uni-bielefeld.de/(de)/ZiF/OeV/2019/12-04-Kuehn.html).
 
 <a class="btn btn-primary btn-sm" href="https://www.youtube.com/watch?v=tCr0YekLvXg" role="button"> <i class="fab fa-youtube"></i> </a> <span style="color:Maroon">**5 November 2019**</span>\. **Benjamin Doyon**, *Diffusion and superdiffusion from hydrodynamic projection*. Talk given at the [*Thermalization, many body localization and hydrodynamics*](https://www.icts.res.in/program/hydrodynamics2019) conference.
 

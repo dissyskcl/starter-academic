@@ -20,7 +20,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Working with Izaak Neri
+  - Working with Izaak Neri and Alessia Annibale
 #  - Out of equilibrium dynamics
 #  - Real world networks
 #  - Graph dynamics

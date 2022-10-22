@@ -20,6 +20,7 @@ date: "2021-01-01T10:00:00Z"
 
 authors:
 - 'gc'
+- 'tw'
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -56,6 +57,33 @@ image:
 ---
 <script defer src="/static/fontawesome/fontawesome-all.js"></script>
 
+<span style="color:Maroon">**1 June 2022**</span>\. **Tony Jin** (UniGe), *KPZ universality, in a classical random walker under continuous measurement*. 
+
+<span style="color:Maroon">**25 May 2022**</span>\. **Ben Doyon** (KCL), *Ergodicity in many-body quantum systems*. 
+
+<span style="color:Maroon">**18 May 2022**</span>\. **Jerome Dubail** (CNRS), *Operator entanglement in 1D quantum systems*. 
+
+<span style="color:Maroon">**11 May 2022**</span>\. **Jan Meimbohm** (KCL), *Finite-time dynamical phase transition in non-equilibrium relaxation*. 
+
+<span style="color:Maroon">**13 April 2022**</span>\. **Leticia Cugliandolo** (Sorbonne Université), *Generalised Gibbs Ensemble for spherically constrained harmonic models*. 
+
+<span style="color:Maroon">**6 April 2022**</span>\. **Carlo Campajola** (University of Zurich), *Modelling time-varying interactions in complex systems: the Score Driven Kinetic Ising Model*. 
+
+<span style="color:Maroon">**30 March 2022**</span>\. **Debraj Das** (University of Bristol), *Lattice random walks: Stochastic resetting and heterogeneous space*. 
+
+<span style="color:Maroon">**23 March 2022**</span>\. **Bertrand Lacroix A Chez Toine** (KCL), *Random landscape built by superposition of random plane waves*.
+
+<span style="color:Maroon">**9 March 2022**</span>\. **Giuseppe Torrisi** (KCL), *Uncovering the non-equilibrium stationary properties in sparse Boolean networks*.
+
+<span style="color:Maroon">**2 March 2022**</span>\. **Rashel Tublin** (KCL), *Compatibility of a System of Random Algebraic Equations. Combining the Least-Square Minimization with Statistical Mechanics Approach*.
+
+<span style="color:Maroon">**23 February 2022**</span>\. **Tobias Galla** (University of Manchester), *Stability and diversity in random ecologies: the physicists' frustration*.
+
+<span style="color:Maroon">**21 February 2022**</span>\. **Francesco Coghi** (Nordita), *Large deviation results for random walks on networks*.
+
+<span style="color:Maroon">**16 February 2022**</span>\. **Michael Olesik** (Jagiellonian University), *Integration of features through space and time - The visual brain seen through the lens of a deep neural network*.
+
+<span style="color:Maroon">**8 December 2021**</span>\. **Reimer Kühn** (KCL), *The Fate of Articulation Points and Bredges in Percolation*.
 
 <span style="color:Maroon">**8 December 2021**</span>\. **Benjamin Walter** (SISSA), *Non-equilibrium dynamics of a colloid diffusing in a fluctuating field*.
 
