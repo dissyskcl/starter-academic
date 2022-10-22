@@ -1,14 +1,14 @@
 ---
 # Display name
 title: Rashel Tublin
-weight: 5
-role: PhD Student
+weight: 2022
+role: PhD 2022
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-user_groups: ["PhD Students"]
+user_groups: ["Alumni"]
 
 
 # Organizations/Affiliations to show in About widget
@@ -20,7 +20,8 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Working with Yan Fyodorov
+  - "[**A Few Results in Random Matrix Theory and Random Optimization**](https://kclpure.kcl.ac.uk/portal/en/theses/a-few-results-in-random-matrix-theory-and-random-optimization(2c32b1a3-85da-4e88-9339-a8c5f2ef1178).html)" 
+  - supervised by A. Annibale and T. Coolen
 #  - Out of equilibrium dynamics
 #  - Real world networks
 #  - Graph dynamics
