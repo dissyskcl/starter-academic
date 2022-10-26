@@ -63,7 +63,7 @@ image:
 
 <a class="btn btn-primary btn-sm" href="https://www.youtube.com/watch?v=6E8pvgu8ICY" role="button"> <i class="fab fa-youtube"></i> </a> <span style="color:Maroon">**14 June 2022**</span>\. **Izaak Neri**, *Thermodynamic Trade-off Relations Involving First-Passage Times*. Talk given at the [*Stochastic thermodynamics: recent developments*](https://www.icts.res.in/discussion-meeting/strd) conference.
 
-<a class="btn btn-primary btn-sm" href="https://www.youtube.com/watch?v=6E8pvgu8ICY" role="button"> <i class="fab fa-youtube"></i> </a> <span style="color:Maroon">**13 June 2022**</span>\. **Paola Ruggiero**, *Entanglement and disorder in many-body systems: a renormalisation group perspective*. Talk given at the [*47th Conference of the Middle European Cooperation in Statistical Physics*](https://meco47.sciencesconf.org/) conference.
+<a class="btn btn-primary btn-sm" href="https://www.youtube.com/watch?v=6E8pvgu8ICY" role="button"> <i class="fab fa-youtube"></i> </a> <span style="color:Maroon">**13 June 2022**</span>\. **Paola Ruggiero**, *Entanglement and disorder in many-body systems: a renormalisation group perspective*. Talk given at the [*47th Conference of the Middle European Cooperation in Statistical Physics*](https://meco47.sciencesconf.org/).
 
 <a class="btn btn-primary btn-sm" href="https://www.youtube.com/watch?v=n3uysPHn3_0" role="button"> <i class="fab fa-youtube"></i> </a> <span style="color:Maroon">**11 November 2021**</span>\. **Paola Ruggiero**, *Recent advances in Integrable Quantum Many-body Systems Out-of-Equilibrium: Hydrodynamics and Quantum Corrections*. Talk given at the *Italian Society of Statistical Physics*.
 
