@@ -57,9 +57,15 @@ image:
 
 <a class="btn btn-primary btn-sm" href="https://www.youtube.com/watch?v=nwaQxr3ymwQ" role="button"> <i class="fab fa-youtube"></i> </a> <span style="color:Maroon">**8 September 2022**</span>\. **Benjamin Doyon**, *In every finite-range quantum spinchain linearised Euler hydrodynamic equations hold*. Talk given at the [*Théorie des champs conforme et systèmes quantiques à plusieurs corps*](http://www.crm.umontreal.ca/2022/Conformal22/index.php) conference.
 
+<a class="btn btn-primary btn-sm" href="https://www.youtube.com/watch?v=6E8pvgu8ICY" role="button"> <i class="fab fa-youtube"></i> </a> <span style="color:Maroon">**31 August 2022**</span>\. **Paola Ruggiero**, *Entanglement Rényi entropies from Ballistic Fluctuations Theory: the free fermionic case*. Talk given at the [*Talking Integrability: Spins, Fields, and Strings conference at KITP*](https://www.kitp.ucsb.edu/activities/integrable-c22) conference.
+
 <a class="btn btn-primary btn-sm" href="https://www.youtube.com/watch?v=6E8pvgu8ICY" role="button"> <i class="fab fa-youtube"></i> </a> <span style="color:Maroon">**23 June 2022**</span>\. **Yan Fyodorov**, *A few results and conjectures on some product-ratio correlation functions of characteristic polynomials of β-Hermite ensembles*. Talk given at the [*50 Years of Number Theory and Random Matrix Theory*](https://www.ias.edu/math/events/50yntrmt) conference.
 
 <a class="btn btn-primary btn-sm" href="https://www.youtube.com/watch?v=6E8pvgu8ICY" role="button"> <i class="fab fa-youtube"></i> </a> <span style="color:Maroon">**14 June 2022**</span>\. **Izaak Neri**, *Thermodynamic Trade-off Relations Involving First-Passage Times*. Talk given at the [*Stochastic thermodynamics: recent developments*](https://www.icts.res.in/discussion-meeting/strd) conference.
+
+<a class="btn btn-primary btn-sm" href="https://www.youtube.com/watch?v=6E8pvgu8ICY" role="button"> <i class="fab fa-youtube"></i> </a> <span style="color:Maroon">**13 June 2022**</span>\. **Paola Ruggiero**, *Entanglement and disorder in many-body systems: a renormalisation group perspective*. Talk given at the [*47th Conference of the Middle European Cooperation in Statistical Physics*](https://meco47.sciencesconf.org/) conference.
+
+<a class="btn btn-primary btn-sm" href="https://www.youtube.com/watch?v=n3uysPHn3_0" role="button"> <i class="fab fa-youtube"></i> </a> <span style="color:Maroon">**11 November 2021**</span>\. **Paola Ruggiero**, *Recent advances in Integrable Quantum Many-body Systems Out-of-Equilibrium: Hydrodynamics and Quantum Corrections*. Talk given at the *Italian Society of Statistical Physics*.
 
 <a class="btn btn-primary btn-sm" href="https://www.youtube.com/watch?v=etZI4oHAcLo" role="button"> <i class="fab fa-youtube"></i> </a> <span style="color:Maroon">**15 April 2021**</span>\. **Izaak Neri**, *Dissipation bounds the moments of first-passage times of dissipative currents*. Talk given at the [*Interdisciplinary Challenges in Nonequilibrium Physics*](https://www.esi.ac.at/events/e412/) conference.
 
