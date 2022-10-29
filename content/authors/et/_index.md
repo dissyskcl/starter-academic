@@ -50,9 +50,9 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=sOJlqloAAAAJ
-#- icon: file-alt
-#  icon_pack: far
-#  link: https://kclpure.kcl.ac.uk/portal/alessia.annibale.html
+- icon: file-alt
+  icon_pack: far
+  link: https://kclpure.kcl.ac.uk/portal/evan.tzanis.html
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
