@@ -47,7 +47,7 @@ authors:
   <div class="col-sm-5">
       <div class="card-body">
         <h6 class="card-title">Contacts</h6>
-        <a href="mailto:pgr-mathematics@kcl.ac.uk" class="card-text"> <i class="fas fa-envelope"></i> Info on the process</a>
+        <a href="mailto:pgr-mathematics@kcl.ac.uk" class="card-text"> <i class="fas fa-envelope"></i> PGR Office</a>
       </div>
   </div>
 </div>
