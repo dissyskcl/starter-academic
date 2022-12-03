@@ -42,7 +42,7 @@ authors:
   <div class="col-sm-5">
       <div class="card-body">
         <h6 class="card-title">Programme Director</h6>
-        <a href="mailto:benjamin.doyon@kcl.ac.uk" class="card-text"> Dr. Benjamin Doyon</a>
+        <a href="mailto:benjamin.doyon@kcl.ac.uk" class="card-text"> Prof. Benjamin Doyon</a>
       </div>
   </div>
   <div class="col-sm-7">
