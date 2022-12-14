@@ -55,7 +55,7 @@ image:
 <div class="alert alert-info" role="alert">
 Hydrodynamics is a powerful theory for describing the emergent dynamics, away from equilibrium, at large scales in space and time. In recent years, the theory adapting hydrodynamics to integrability, called "generalised hydrodynamics" (GHD), has been developed. It turns out to be extremely general, applicable to quantum and classical chains, field theories and gases. These lectures will cover the fundamental concepts of this theory. Starting from an overview of hydrodynamics, I will describe the most important aspects of integrability, from which I will derive the basic GHD equations. I will emphasise the universality of GHD and the physical interpretation of its various ingredients, and if time allows, explain some of its applications and more advanced concepts.  Only very basic knowledge of hydrodynamics and integrability is assumed, and I will keep everything as non-technical as possible.
 </div>
-{{< youtube f7LYDyqGpW4 >}}
+{{< youtube p0WnKXJhQ3o >}}
 &nbsp;
 {{< youtube f7LYDyqGpW4 >}}
 
