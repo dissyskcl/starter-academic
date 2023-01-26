@@ -1,14 +1,14 @@
 ---
 # Display name
 title: Christian Hurry
-weight: 5
-role: PhD Student
+weight: 2022
+role: PhD 2022
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-user_groups: ["PhD Students"]
+user_groups: ["Alumni"]
 
 
 # Organizations/Affiliations to show in About widget
@@ -20,7 +20,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Working with Alessia Annibale
+interests:
+  #- "[**A statistical mechanics model of the adaptive immune system: static and dynamical analysis in different regimes of connectivity**](https://kclpure.kcl.ac.uk/portal/en/theses/a-statistical-mechanics-model-of-the-adaptive-immune-system(8b2a6f6d-ed30-4f14-80f2-0d95a8f3e365).html)" 
+  - supervised by A. Annibale and A. Mozeika
 #  - Out of equilibrium dynamics
 #  - Real world networks
 #  - Graph dynamics
