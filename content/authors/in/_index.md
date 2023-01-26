@@ -54,7 +54,7 @@ social:
   link: https://scholar.google.com/citations?user=FyimJsAAAAAJ
 - icon: file-alt
   icon_pack: far
-  link: https://kclpure.kcl.ac.uk/portal/izaak.neri.html
+  link: https://kclpure.kcl.ac.uk/portal/en/persons/izaak-neri(ce117c56-73b0-4975-831c-18f12694e45a).html
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen

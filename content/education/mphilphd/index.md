@@ -29,6 +29,7 @@ image:
   preview_only: true
 
 authors:
+- pv
 - gs
 
 ---
