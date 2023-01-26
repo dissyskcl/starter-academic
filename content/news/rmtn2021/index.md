@@ -3,7 +3,7 @@ title: Random Matrix Theory and Networks Workshop
 subtitle: A virtual workshop organized at MPI -- 7-18 June 2021
 
 # Summary for listings and search engines
-summary: Izaak Neri will be a scientific coordinator of the virtual workshop organized at MPI, that aims to bring together researchers working on random matrix theory and complex systems. 7-18 June 2021. Apply!
+summary: Izaak Neri is scientific coordinator of the virtual workshop organized at MPI, that aims to bring together researchers working on random matrix theory and complex systems.
 
 # Link this post with a project
 projects: []
@@ -36,8 +36,9 @@ tags:
 - Random Matrix Theory
 - Graph Theory
 
-links:
-- icon: edit
-  icon_pack: far
-  link: "https://www.pks.mpg.de/rmtnet21"
+external_link: "https://www.pks.mpg.de/rmtnet21"
+#links:
+#- icon: edit
+#  icon_pack: far
+#  link: "https://www.pks.mpg.de/rmtnet21"
 ---

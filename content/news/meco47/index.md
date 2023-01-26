@@ -3,7 +3,7 @@ title: MECO47
 subtitle: []
 
 # Summary for listings and search engines
-summary: The traditional Conference of the Middle European Cooperation in Statistical Physics is organised this year by Silvia Bartolucci, Laura Foini, Pierpaolo Vivo in Erice.
+summary: The traditional Conference of the Middle European Cooperation in Statistical Physics is organised this year by Silvia Bartolucci, Laura Foini, Gabriele Sicuro and Pierpaolo Vivo in Erice.
 
 # Link this post with a project
 projects: []

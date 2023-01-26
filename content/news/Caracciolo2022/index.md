@@ -3,7 +3,7 @@ title: The Facets of Statistical Field Theory
 subtitle: []
 
 # Summary for listings and search engines
-summary: A conference on Statistical Field Theory, Statistical Physics and their interdisciplinary applications in Trieste, in honour of Sergio Caracciolo's 70th birthday, organise, amongst the others, by G. Sicuro.
+summary: A conference on Statistical Field Theory, Statistical Physics and their interdisciplinary applications in Trieste, in honour of Sergio Caracciolo's 70th birthday, organise, amongst the others, by Gabriele Sicuro.
 
 # Link this post with a project
 projects: []
