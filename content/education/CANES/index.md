@@ -1,13 +1,13 @@
 ---
-title: The CANES seminar series
-external_link: "https://www.kcl.ac.uk/noneqsys/seminars-and-videos/past-seminars-and-videos"
+title: The Cross-Disciplinary Approaches to Non-Equilibrium Systems Centre
+external_link: "https://www.kcl.ac.uk/research/noneqsys"
 event: CANES Meeting
 event_url: []
 weight: 1
 
 location: KCL and Online
 
-summary: "The seminar page of the EPSRC Centre for Doctoral Training in Cross-Disciplinary Approaches to Non-Equilibrium Systems (CANES)."
+summary: "CANES is an EPSRC Centre for Doctoral Training with an active participation of the DS Group."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -29,11 +29,11 @@ featured: true
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
 
-#links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/CANES_CDT
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""

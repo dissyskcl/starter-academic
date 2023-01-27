@@ -57,6 +57,9 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+
+<div align="justify">
+
 Modern science has made clear that [the reductionist viewpoint is insufficient](https://www.tkm.kit.edu/downloads/TKM1_2011_more_is_different_PWA.pdf). Even if interactions between fundamental particles are under control, new laws emerge at large, “life” scales, which are often more complex. 
 
 The idea of emergence goes beyond, and systems composed of a large number of constituents in interaction, subject to hard-to-predict fluctuations, form a new theoretical paradigm for physics, biology, economy, and other disciplines. This is the ubiquitous subject of complex systems. 
@@ -65,3 +68,4 @@ Understanding complex systems has real-world impact, but the study of complexity
 
 In the UK there is a strong community of researchers on these and related subjects, and **the Disordered Systems group of KCL’s Mathematics Department is at the forefront of research in statistical mechanics of disordered and complex systems**. The group focuses its research on both fundamental problems, such as non-equilibrium systems, network theory, soft matter theory, and random matrix theory, and on applications, such as mathematical biology and quantitative medicine, social phenomena, finance, statistics and inference, machine learning. 
 <!The Disordered Systems group at King's is at the forefront of research in statistical mechanics of disordered and complex systems. The research of the group concentrates on the development of new methods to tackle both fundamental issues, for example in non-equilibrium systems, and a broad range of applications to complex systems of many interacting units. The latter include mathematical systems biology and quantitative medicine (protein, metabolic and immune networks & network ensembles) as well as links with statistics and informatics in the area of Bayesian statistical inference and machine learning. The group also has a strong profile in soft condensed matter physics (rheology, polydispersity), glasses and driven non-equilibrium systems. Recent work has led to the development of new models to describe natural and social phenomena, such as systemic risk and catastrophic breakdown in complex systems, with applications to finance and the prediction of power outages. Random matrix theory has become an increasingly important area, studied using extensions of methods for sparse networks.)>
+</div>

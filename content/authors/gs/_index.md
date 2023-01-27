@@ -5,7 +5,7 @@ weight: 30
 role: Lecturer in Disordered Systems
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position/tagline
 user_groups: ["Faculty"]
