@@ -57,6 +57,34 @@ image:
 ---
 <script defer src="/static/fontawesome/fontawesome-all.js"></script>
 
+<span style="color:Maroon">**25 January 2023**</span>\. **Nina Javerzat** (SISSA), *Schramm-Loewner Evolution for Rigidity Percolation*.
+
+<span style="color:Maroon">**18 January 2023**</span>\. **Bruno Loureiro** (ENS Paris), *Phase diagram of Stochastic Gradient Descent in high-dimensional two-layer neural networks*.
+
+<span style="color:Maroon">**11 January 2023**</span>\. **Johannes Hofmann** (Gothenburg), *Surprises in Fermi liquid theory: Anomalously long lifetimes in 2D systems*.
+
+<span style="color:Maroon">**14 December 2022**</span>\. **Benjamin Doyon** (KCL), *Ergodicity in many-body quantum systems II*.
+
+<span style="color:Maroon">**8 December 2022**</span>\. **Fabio Deelan Cunden** (Bari), *The semiclassical limit of a quantum Zeno dynamics*.
+
+<span style="color:Maroon">**7 December 2022**</span>\. **Carmen Cabrera-Arnau** (Liverpool), *A journey through the complexity of cities at different spatial scales*.
+
+<span style="color:Maroon">**30 November 2022**</span>\. **Francesco Mori** (Oxford), *The run-and-tumble particle: from universal properties to nonequilibrium phase transitions*.
+
+<span style="color:Maroon">**28 November 2022**</span>\. **Benjamin De Bruyne** (Saclay), *Constrained stochastic processes*.
+
+<span style="color:Maroon">**23 November 2022**</span>\. **Mark Crumpton** (KCL), *On eigenvalues and singular values of low-rank random matrices with non-negative entries*. 
+
+<span style="color:Maroon">**16 November 2022**</span>\. **Alexandre Krajenbrink** (Cambridge), *The crossover from the Macroscopic Fluctuation Theory to the Kardar-Parisi-Zhang equation controls the large deviations of diffusive systems*. 
+
+<span style="color:Maroon">**2 November 2022**</span>\. **Sarah Loos** (Cambridge), *About time-reversal symmetry broken fluctuations in nonequilibrium many-body systems*. 
+
+<span style="color:Maroon">**26 October 2022**</span>\. **Izaak Neri** (KCL), *Thermodynamic trade-off relations involving first-passage times*. 
+
+<span style="color:Maroon">**12 October 2022**</span>\. **Yan Fyodorov** (KCL), *Escaping the crowds: extreme values and outliers in rank-1 non-normal deformations of GUE/CUE*. 
+
+<span style="color:Maroon">**5 October 2022**</span>\. **Yasser Roudi** (KCL), *The unbearable lightness of single neuron non-linearities in neural networks*. 
+
 <span style="color:Maroon">**1 June 2022**</span>\. **Tony Jin** (UniGe), *KPZ universality, in a classical random walker under continuous measurement*. 
 
 <span style="color:Maroon">**25 May 2022**</span>\. **Ben Doyon** (KCL), *Ergodicity in many-body quantum systems*. 
