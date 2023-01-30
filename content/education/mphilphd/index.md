@@ -58,9 +58,7 @@ The Disordered Systems group is constantly engaged in the supervision of PhD can
 <a href="https://www.kcl.ac.uk/study-legacy/postgraduate/research-courses/applied-mathematics-research-mphil-phd" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">**King's application system**</a>
 
 ## PhD projects
-There is currently no PhD opening with pre-assigned PhD project.
 
-## Past openings
 <div class="alert alert-info">
   <i class="fa-solid fa-diagram-project"></i>
   <strong> Entanglement and universality in inhomogeneous and out-of-equilibrium many body quantum systems</strong>
