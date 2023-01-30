@@ -63,13 +63,13 @@ There is currently no PhD opening with pre-assigned PhD project.
 ## Past openings
 <div class="alert alert-info">
   <i class="fa-solid fa-diagram-project"></i>
-  <strong> [CLOSED] Entanglement and universality in inhomogeneous and out-of-equilibrium many body quantum systems</strong>
+  <strong> Entanglement and universality in inhomogeneous and out-of-equilibrium many body quantum systems</strong>
  <div style="text-align: justify">
  <strong> Supervisors: </strong>
  <a href="mailto:paola.ruggiero@kcl.ac.uk" class="card-text"> <i class="fas fa-envelope"></i> Dr Paola Ruggiero</a> and 
  <a href="mailto:benjamin.doyon@kcl.ac.uk" class="card-text"> <i class="fas fa-envelope"></i> Prof Ben Doyon</a>
  
- <strong> Deadline: </strong> 31st of December 2022.
+<strong> Status: </strong> Open.
  
 We would like to bring to your attention a [**funded home-student**](https://www.ukcisa.org.uk/Information--Advice/Fees-and-Money/England-HE-fee-status#layer-6082) PhD fellowship available in the Disordered System group at King’s College London. This is to be co-supervised by Dr Paola Ruggiero and Prof Benjamin Doyon, and to start in October 2023. The PhD project covers a broad range of topics in statistical physics and quantum many-body systems, and will be adapted to the interests of the candidate. A general description of the project can be found below.
 
@@ -78,7 +78,7 @@ We would like to bring to your attention a [**funded home-student**](https://www
 <strong> Description &mdash; </strong> The project lies at the intersection of several different fields: from statistical physics to quantum information, from high energy to condensed matter physics. The common denominators are the phenomenon of quantum entanglement and the out-of-equilibrium behaviour of many-body quantum systems, particularly in low dimensional quantum many body systems. While the emergence of universality is rather well established for systems which are homogeneous and are at equilibrium, the same is not true for inhomogeneous systems, both in and out of equilibrium. Those, on the other hand, are the rule rather than the exception in the context of quantum experiments. Different new tools are currently under study to investigate what remains of the aforementioned universality in such more complicated situations, and the projects aims to gain a better understanding of this topic, especially through the “lenses” of entanglement.
 <hr class="rounded">
 
-<strong> How to apply &mdash; </strong> If you have home-fees student status, in order to express your interest, please submit your application for an *Applied Mathematics Research Degree* in the Mathematics Department via the King's application system by the end of December 2022. A CV and a short research interest statement will be required.
+<strong> How to apply &mdash; </strong> If you have home-fees student status, in order to express your interest, **please submit your CV and two reference letters to** <a href="mailto:paola.ruggiero@kcl.ac.uk" class="card-text"> <i class="fas fa-envelope"></i> **Paola Ruggiero**</a>. Moreover, also apply for an Applied Mathematics Research Degree in the Mathematics Department via the King's application system.
 <a href="https://apply.kcl.ac.uk/" class="btn btn-info btn-lg btn-block active" role="button" aria-pressed="true">**Direct link to the application page**</a>
 </div>
 </div>

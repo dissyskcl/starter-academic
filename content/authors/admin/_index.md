@@ -52,7 +52,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "disorderedsystems@kcl.ac.uk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
