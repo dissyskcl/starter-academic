@@ -60,6 +60,7 @@ The Disordered Systems group is constantly engaged in the supervision of PhD can
 ## PhD projects
 
 <div class="alert alert-info">
+<a name="paola"></a>
   <i class="fa-solid fa-diagram-project"></i>
   <strong> Entanglement and universality in inhomogeneous and out-of-equilibrium many body quantum systems</strong>
  <div style="text-align: justify">
