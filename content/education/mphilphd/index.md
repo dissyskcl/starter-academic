@@ -62,7 +62,7 @@ The Disordered Systems group is constantly engaged in the supervision of PhD can
 <div class="alert alert-info" id="#ivan">
 <a name="ivan"></a>
   <i class="fa-solid fa-diagram-project"></i>
-  <h1 style="font-size:12;font-family:roboto"> The mathematics of adaptive, stable and robust Artificial Intelligence</h1>
+  <h2 style="font-size:10;font-family:roboto"> The mathematics of adaptive, stable and robust Artificial Intelligence</h2>
  <div style="text-align: justify">
  <strong> Supervisor: </strong>
  <a href="mailto:ivan.tyukin@kcl.ac.uk" class="card-text"> <i class="fas fa-envelope"></i> Prof Ivan Tyukin</a>
@@ -85,8 +85,8 @@ The project aims to explore and systematically assess major causes of AI errors 
 <div class="alert alert-info" id="#paola">
 <a name="paola"></a>
   <i class="fa-solid fa-diagram-project"></i>
-  <h1 style="font-size:12;font-family:roboto"> 
-  Entanglement and universality in inhomogeneous and out-of-equilibrium many body quantum systems </h1>
+  <h2 style="font-size:10;font-family:roboto"> 
+  Entanglement and universality in inhomogeneous and out-of-equilibrium many body quantum systems </h2>
  <div style="text-align: justify">
  <strong> Supervisors: </strong>
  <a href="mailto:paola.ruggiero@kcl.ac.uk" class="card-text"> <i class="fas fa-envelope"></i> Dr Paola Ruggiero</a> and 
