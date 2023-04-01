@@ -59,10 +59,34 @@ The Disordered Systems group is constantly engaged in the supervision of PhD can
 
 ## PhD projects
 
-<div class="alert alert-info">
+<div class="alert alert-info" id="#ivan">
+<a name="ivan"></a>
+  <i class="fa-solid fa-diagram-project"></i>
+  <h2 style="font-size:2vw"> The mathematics of adaptive, stable and robust Artificial Intelligence</h2>
+ <div style="text-align: justify">
+ <strong> Supervisor: </strong>
+ <a href="mailto:ivan.tyukin@kcl.ac.uk" class="card-text"> <i class="fas fa-envelope"></i> Prof Ivan Tyukin</a>
+ 
+<strong> Status: </strong> Open.
+
+The studentship covers tuition fees for [**Home/UK students**](https://www.ukcisa.org.uk/Information--Advice/Fees-and-Money/England-HE-fee-status#layer-6082) and a stipend of £19,668 per annum. The funding is available for 3.5 years. Overseas applicants will be considered but they must demonstrate the capability to fund the difference between International full-time fees (currently £28,260 per annum for 2023/2024 academic year) and Home/UK fees.
+
+  
+<hr class="rounded">
+<strong> Description &mdash; </strong> Recent years have seen explosive growth in the applications of Artificial Intelligence (AI). Notwithstanding significant successes of the new technology, empirical evidence points to numerous examples of errors in the decisions of state-of-the-art AI systems. Current theoretical works confirm that modern design practices and classical mathematical frameworks supporting these could suffer from various fundamental shortcomings including the typicality of adversarial attacks, susceptibility to backdoors and stealth attacks, instabilities, and hallucinations. At the same time, there is a plethora of under-explored and seemingly controversial phenomena, such as learning from scarce yet high-dimensional information, which has been broadly observed experimentally in large-scale AI systems but whose complete mathematical understanding is yet to be developed. Other factors hindering the performance of current AI systems include the need to adapt to concept drifts and unforeseen changes in operational conditions.
+
+The project aims to explore and systematically assess major causes of AI errors and instabilities and develop appropriate mathematical foundations enabling the creation of stable and robust Artificial Intelligence capable of dealing with errors and concept drifts. The successful candidate will work alongside a team of early career researchers funded by the UKRI Turing AI Acceleration Fellowship (EP/V025295/2) and will benefit from the team’s established relationships with industrial partners, academic networks (Turing AI Fellows, Trustworthy Autonomous Systems Node in Verifiability EP/V026801/2), and other collaborators in academia, healthcare, defence & security.
+<hr class="rounded">
+
+<strong> How to apply &mdash; </strong> To state your interest, please contact directly <a href="mailto:ivan.tyukin@kcl.ac.uk" class="card-text"> <i class="fas fa-envelope"></i> **Prof Ivan Tyukin**</a>.
+</div>
+</div>
+
+<div class="alert alert-info" id="#paola">
 <a name="paola"></a>
   <i class="fa-solid fa-diagram-project"></i>
-  <strong> Entanglement and universality in inhomogeneous and out-of-equilibrium many body quantum systems</strong>
+  <h2 style="font-size:2vw"> 
+  Entanglement and universality in inhomogeneous and out-of-equilibrium many body quantum systems </h2>
  <div style="text-align: justify">
  <strong> Supervisors: </strong>
  <a href="mailto:paola.ruggiero@kcl.ac.uk" class="card-text"> <i class="fas fa-envelope"></i> Dr Paola Ruggiero</a> and 
