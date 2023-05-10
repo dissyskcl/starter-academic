@@ -57,6 +57,32 @@ image:
 ---
 <script defer src="/static/fontawesome/fontawesome-all.js"></script>
 
+<span style="color:Maroon">**10 May 2023**</span>\. **Friedrich Huebner** (KCL), *Existence/uniqueness of solutions and absence of shock formation in the generalized hydrodynamics equation of the Lieb-Liniger model*.
+
+<span style="color:Maroon">**3 May 2023**</span>\. **Yan Fyodorov** (KCL), *Resonances in wave reflection from a disordered medium: nonlinear Sigma-model approach*.
+
+<span style="color:Maroon">**26 April 2023**</span>\. **Rosalba Garcia-Millan** (Cambridge), *Active matter, non-reciprocal interactions and entropy production*.
+
+<span style="color:Maroon">**24 April 2023**</span>\. **Alvise Bastianello** (TU Münich), *Sine-Gordon quantum simulators: a hydrodynamic perspective*.
+
+<span style="color:Maroon">**5 April 2023**</span>\. **Rafael Tapia Rojo** (KCL), *Probing the Stochastic Dynamics of Folding Proteins Using Single-Molecule Magnetic Tweezers*.
+
+<span style="color:Maroon">**27 March 2023**</span>\. **Josef Mak** (KCL), *Statics and Dynamics of non-Hermitian Many-Body Localization*.
+
+<span style="color:Maroon">**27 March 2023**</span>\. **David Lacoste** (ESPCI Paris), *From gambling to growing in uncertain environments*.
+
+<span style="color:Maroon">**8 March 2023**</span>\. **Alessandro Manacorda** (University of Luxembourg), *Dynamical mean-field theory of infinite-dimensional particle systems: from equilibrium to gradient descent dynamics*.
+
+<span style="color:Maroon">**6 March 2023**</span>\. **Chiara Paletta** (Trinity College Dublin), *A range three elliptic deformation of the Hubbard model*.
+
+<span style="color:Maroon">**1 March 2023**</span>\. **Somrita Ray** (University of Edinburgh), *To reset or not to reset!*.
+
+<span style="color:Maroon">**20 February 2023**</span>\. **Stefano Bo** (KCL), *Stochastic dynamics of single molecules across phase boundaries*.
+
+<span style="color:Maroon">**13 February 2023**</span>\. **Luke Davis** (UCL), *Active matter under thermodynamic control: insights from response theory*.
+
+<span style="color:Maroon">**8 February 2023**</span>\. **Jacopo de Nardis** (CY Cergy Paris Université), *Spin dynamics in isotropic spin chains, a surprising connection with drifting polymers*.
+
 <span style="color:Maroon">**25 January 2023**</span>\. **Nina Javerzat** (SISSA), *Schramm-Loewner Evolution for Rigidity Percolation*.
 
 <span style="color:Maroon">**18 January 2023**</span>\. **Bruno Loureiro** (ENS Paris), *Phase diagram of Stochastic Gradient Descent in high-dimensional two-layer neural networks*.
