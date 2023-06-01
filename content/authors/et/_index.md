@@ -53,6 +53,9 @@ social:
 - icon: file-alt
   icon_pack: far
   link: https://kclpure.kcl.ac.uk/portal/evan.tzanis.html
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/ippodameios
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
