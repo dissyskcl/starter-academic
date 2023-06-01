@@ -1,6 +1,6 @@
 ---
 # Display name
-title: TBA
+title: François Huveneers
 weight: 15
 role: Reader in Disordered Systems
 
@@ -19,34 +19,35 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-#interests:
-#- Random matrix theory
-#- Applications of statistical physics to socio-economical sciences
+interests:
+- Probability theory
+- Mathematical physics 
+- Out-of-equilibrium statistical mechanics
 
 # Education to show in About widget
-#education:
-#  courses:
-#  - course: PhD in Physics
-#    institution: Brunel University
-#    year: 2008
-#  - course: MSc in Physics
-#    institution: University of Parma
-#    year: 2005
+education:
+  courses:
+  - course: PhD in Mathematical Physics
+    institution: Université catholique de Louvain
+    year: 2010
+  - course: MSc in Physics
+    institution: Université catholique de Louvain
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-#social:
+social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '/#contact'
-#- icon: envelope
-#  icon_pack: fas
-#  link: mailto:pierpaolo.vivo@kcl.ac.uk
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=OkLTFBIAAAAJ
+- icon: envelope
+  icon_pack: fas
+  link: mailto:francois.huveneers@kcl.ac.uk
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=t0I7RXcAAAAJ
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/PierpaoloVivo
@@ -68,7 +69,7 @@ organizations:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "pierpaolo.vivo@kcl.ac.uk"
+#email: "francois.huveneers@kcl.ac.uk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

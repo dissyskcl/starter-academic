@@ -8,7 +8,7 @@ math: true
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 3
+view: 1
 
 # Optional header image (relative to `static/media/` folder).
 header:
