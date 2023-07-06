@@ -10,7 +10,7 @@ headless: true
 weight: 24
 
 title: 'Events'
-subtitle: 'Conferences and workshops organised by the group'
+subtitle: 'Events, conferences and workshops organised by the group'
 
 content:
   # Page type to display. E.g. post, event, publication...
