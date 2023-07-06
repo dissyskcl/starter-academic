@@ -61,7 +61,7 @@ The volume is edited by Patrick Charbonneau, Enzo Marinari, Marc Mézard, Giorgi
 1. *Michael K. Kosterlitz*\
    **Beyond the Ising Spin Glass II: Spin glass without replicas**
 1. **Renormalization Group in Spin Glasses**
-   1. *Tom Lubesnki*\
+   1. *Tom Lubenski*\
       Mean-Field and $\epsilon$-Expansion for Spin Glasses
    1. *Tamás Temesvári, Imre Kondor*\
       Field theory for the de Almeida-Thouless transition
