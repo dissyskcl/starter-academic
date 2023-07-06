@@ -120,7 +120,7 @@ The volume is edited by Patrick Charbonneau, Enzo Marinari, Marc Mézard, Giorgi
    **Information and Communication**
 1. *Erik Aurell, Jean Barbier, Aurelien Decelle, Roberto Mulet*\
    [**The Mighty Force: Statistical Inference and High-Dimensional Statistics**](https://arxiv.org/abs/2205.00750)
-1. *David Gamarnik, Cristopher Moore, Lenka Zdeborová*
+1. *David Gamarnik, Cristopher Moore, Lenka Zdeborová*\
    [**Disordered Systems Insights on Computational Hardness**](https://arxiv.org/abs/2210.08312)
 1. *Marylou Gabrié, Surya Ganguli, Carlo Lucibello, Riccardo Zecchina*\
    [**Neural Networks: From the Perceptron to Deep Nets**](https://arxiv.org/abs/2304.06636)
