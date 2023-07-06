@@ -104,7 +104,7 @@ The volume is edited by Patrick Charbonneau, Enzo Marinari, Marc Mézard, Giorgi
 1. **Emergent Dynamics in Glasses and Disordered Systems: Correlations and Avalanches**
    1. *Annette Zippelius, Matthias Fuchs*\
       [From viscous fluids to elastic solids: A perspective on the glass transition](https://arxiv.org/abs/2205.00890)
-   1. *Alberto Rosso, James P. Sethna, and Matthieu Wyart*
+   1. *Alberto Rosso, James P. Sethna, and Matthieu Wyart*\
       [Avalanches and deformation in glasses and disordered systems](https://arxiv.org/abs/2208.04090)
 1. *Claudio Conti, Neda Ghofraniha, Luca Leuzzi, Giancarlo Ruocco*\
    [**Replica Symmetry Breaking in Random Lasers: Experimental Measurement of the Overlap Distribution**](https://arxiv.org/abs/2209.03781)
