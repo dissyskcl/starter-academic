@@ -21,8 +21,7 @@ organizations:
 # Interests to show in About widget
 interests:
 interests:
-  - "[**Statistical mechanics of immunity from genes to populations
-**](https://kclpure.kcl.ac.uk/portal/en/studentTheses/statistical-mechanics-of-immunity-from-genes-to-populations)" 
+  - "[**Statistical mechanics of immunity from genes to populations**](https://kclpure.kcl.ac.uk/portal/en/studentTheses/statistical-mechanics-of-immunity-from-genes-to-populations)" 
   - supervised by F. Fraternali and A. Annibale
 #  - Out of equilibrium dynamics
 #  - Real world networks
