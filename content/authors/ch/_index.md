@@ -21,8 +21,9 @@ organizations:
 # Interests to show in About widget
 interests:
 interests:
-  #- "[**A statistical mechanics model of the adaptive immune system: static and dynamical analysis in different regimes of connectivity**](https://kclpure.kcl.ac.uk/portal/en/theses/a-statistical-mechanics-model-of-the-adaptive-immune-system(8b2a6f6d-ed30-4f14-80f2-0d95a8f3e365).html)" 
-  - supervised by A. Annibale and A. Mozeika
+  - "[**Statistical mechanics of immunity from genes to populations
+**](https://kclpure.kcl.ac.uk/portal/en/studentTheses/statistical-mechanics-of-immunity-from-genes-to-populations)" 
+  - supervised by F. Fraternali and A. Annibale
 #  - Out of equilibrium dynamics
 #  - Real world networks
 #  - Graph dynamics
