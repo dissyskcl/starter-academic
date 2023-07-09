@@ -1,14 +1,14 @@
 ---
 # Display name
 title: Giorgio Carugno
-weight: 5
-role: PhD Student
+weight: 2023
+role: PhD 2023
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-user_groups: ["PhD Students"]
+user_groups: ["Alumni"]
 
 
 # Organizations/Affiliations to show in About widget
@@ -20,21 +20,14 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Working with Izaak Neri and Pierpaolo Vivo
-#  - Out of equilibrium dynamics
-#  - Real world networks
-#  - Graph dynamics
-#  - Stochastic processes
+  - "[**Ergodicity and localisation in mean field quantum systems**](https://kclpure.kcl.ac.uk/portal/en/theses/ergodicity-and-localisation-in-meanfield-quantum-systems(1d9d4aa5-21d0-47c5-a1b3-4c7f22b68fdd).html)" 
+  - Supervised by Izaak Neri and Pierpaolo Vivo
 
-# Education to show in About widget
-#education:
-#  courses:
-#  - course: PhD in Physics
-#    institution: King's College London
-#    year: 2007
-#  - course: MSc in Physics
-#    institution: Sapienza Università di Roma
-#    year: 2003
+education:
+  courses:
+  - course: PhD in Physics
+    institution: King's College London
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,9 +37,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '/#contact'
-- icon: envelope
-  icon_pack: fas
-  link: mailto:giorgio.carugno@kcl.ac.uk
+#- icon: envelope
+#  icon_pack: fas
+#  link: mailto:giorgio.carugno@kcl.ac.uk
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=sOJlqloAAAAJ

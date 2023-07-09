@@ -35,6 +35,8 @@ authors:
 tags:
 - Nobel prize
 - Disordered Systems
+- Book
+- Reviews
 
 #links:
 #- icon: edit
