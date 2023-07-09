@@ -20,7 +20,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - "[**Ergodicity and localisation in mean field quantum systems**](https://kclpure.kcl.ac.uk/portal/en/theses/ergodicity-and-localisation-in-meanfield-quantum-systems(1d9d4aa5-21d0-47c5-a1b3-4c7f22b68fdd).html)" 
+#  - "[**Ergodicity and localisation in mean field quantum systems**](https://kclpure.kcl.ac.uk/portal/en/theses/ergodicity-and-localisation-in-meanfield-quantum-systems(1d9d4aa5-21d0-47c5-a1b3-4c7f22b68fdd).html)" 
   - Supervised by Izaak Neri and Pierpaolo Vivo
 
 education:
