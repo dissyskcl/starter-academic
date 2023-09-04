@@ -66,7 +66,7 @@ The volume is edited by Patrick Charbonneau, Enzo Marinari, Marc Mézard, Giorgi
    1. *Tom Lubenski*\
       Mean-Field and $\epsilon$-Expansion for Spin Glasses
    1. *Tamás Temesvári, Imre Kondor*\
-      Field theory for the de Almeida-Thouless transition
+      [Field theory for the de Almeida-Thouless transition](https://arxiv.org/abs/2212.01654)
    1. *Maria Chiara Angelini*\
       [Real-space renormalization group for spin glasses](https://arxiv.org/abs/2302.05292)
 1. *Victor Martin-Mayor, Juan J. Ruiz-Lorenzo, Beatriz Seoane, A. Peter Young*\
