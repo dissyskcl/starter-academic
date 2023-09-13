@@ -70,7 +70,7 @@ You can find the program of the event, with some material, below.
 (*Random lasers as complex disordered systems: a spin-glass-like theory for amplified mode-locking waves in random media*.](./leuzzi.pdf)
 
 <span style="color:Maroon">**François Huveneers**</span>\.  (King's College London)\
-*Spreading of a wave packet in a disordered anharmonic chain*.
+[*Spreading of a wave packet in a disordered anharmonic chain*.](./huveneers.pdf)
 
 <span style="color:Maroon">**Valentina Ros**</span>\.  (LPTMS Paris-Saclay)\
 [*Counting equilibria in high-D random systems: from Gaussian landscapes to simple ecosystems*.](./ROS.pdf)
