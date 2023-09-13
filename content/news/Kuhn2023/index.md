@@ -9,10 +9,10 @@ summary: A two-days workshop to celebrate Reimer Kühn.
 projects: []
 
 # Date published
-date: "2023-06-24T00:00:00Z"
+date: "2023-09-12T00:00:00Z"
 
 # Date updated
-lastmod: "2023-06-24T00:00:00Z"
+lastmod: "2023-09-12T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
