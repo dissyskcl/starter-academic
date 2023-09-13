@@ -42,6 +42,8 @@ The Disordered Systems group organised a [two-days event](https://disorderdayskc
 
 You can find the program of the event, with some material, below.
 
+***
+
 ## Monday September 11th, 2023
 
 <script defer src="/static/fontawesome/fontawesome-all.js"></script>
