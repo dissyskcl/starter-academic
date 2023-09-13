@@ -67,7 +67,7 @@ You can find the program of the event, with some material, below.
 <script defer src="/static/fontawesome/fontawesome-all.js"></script>
 
 <span style="color:Maroon">**Luca Leuzzi**</span>\.  (Institute of Nanotechnology — CNR-NANOTEC)\
-(*Random lasers as complex disordered systems: a spin-glass-like theory for amplified mode-locking waves in random media*.](./leuzzi.pdf)
+[*Random lasers as complex disordered systems: a spin-glass-like theory for amplified mode-locking waves in random media*.](./leuzzi.pdf)
 
 <span style="color:Maroon">**François Huveneers**</span>\.  (King's College London)\
 [*Spreading of a wave packet in a disordered anharmonic chain*.](./huveneers.pdf)
