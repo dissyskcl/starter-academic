@@ -61,7 +61,7 @@ You can find the program of the event, with some material, below.
 [Mathematicians against gene-regulatory networks.](./annibale.pdf)
 
 <span style="color:Maroon">**Pierfrancesco Urbani**</span>\.  (Université Paris-Saclay, CNRS, CEA, IPhT)\
-*The KHGPS model and the spin glass transition in a field*.
+The KHGPS model and the spin glass transition in a field.
 
 
 ## Tuesday September 12th, 2023
