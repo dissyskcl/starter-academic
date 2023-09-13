@@ -36,7 +36,7 @@ tags:
 
 ---
 
-<img src="head.png" alt="drawing" style="width:\textwidth;"/>
+<img src="headr.png" alt="drawing" style="width:\textwidth;"/>
 
 The Disordered Systems group organised a [two-days event](https://disorderdayskcl.weebly.com/) on the physics of disorder in both the classical and quantum setting, hosting a selection of international leading experts in the field. The first day of the event has been dedicated to our dear colleague **Reimer Kühn**, who retired in 2023. The Workshop has been an opportunity to thank Reimer for his invaluable contributions to the field and to the life of our research group.
 
