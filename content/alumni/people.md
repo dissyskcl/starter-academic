@@ -29,4 +29,4 @@ design:
   show_organizations: false
   show_email: true
 ---
-*The page is under construction! If you obtained your PhD working with us, you are not listed below and you would like to be added, [write us](mailto:gabriele.sicuro@kcl.ac.uk).*
+*The page is under construction! If you obtained your PhD working with us, you are not listed below and you would like to be added, [write us](mailto:disorderedsystems@kcl.ac.uk).*
