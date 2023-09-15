@@ -1,14 +1,14 @@
 ---
 # Display name
 title: Yanik-Pascal Förster
-weight: 5
-role: PhD Student
+weight: 2023
+role: PhD 2023
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-user_groups: ["PhD Students"]
+user_groups: ["Alumni"]
 
 
 # Organizations/Affiliations to show in About widget
@@ -20,11 +20,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Working with Pierpaolo Vivo and Alessia Annibale
-#  - Out of equilibrium dynamics
-#  - Real world networks
-#  - Graph dynamics
-#  - Stochastic processes
+#  - Working with 
+  - "[**Randomly Searching the Law: Mean First-Passage Times and Complexity of Legal Trees**](https://kclpure.kcl.ac.uk/portal/en/studentTheses/randomly-searching-the-law-mean-first-passage-times-and-complexit)"
+  - supervised by P. Vivo and A. Annibale
 
 # Education to show in About widget
 #education:
@@ -41,9 +39,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '/#contact'
-- icon: envelope
-  icon_pack: fas
-  link: mailto:yanik-pascal.foerster@kcl.ac.uk
+#- icon: envelope
+#  icon_pack: fas
+#  link: mailto:yanik-pascal.foerster@kcl.ac.uk
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=sOJlqloAAAAJ
