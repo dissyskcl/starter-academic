@@ -14,6 +14,7 @@ content:
 
   user_groups:
   - Former Staff Members
+  - Former Postdoctoral Researchers
   - Alumni
 
 design:

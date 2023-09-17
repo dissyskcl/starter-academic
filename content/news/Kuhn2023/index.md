@@ -54,7 +54,7 @@ You can find the program of the event, with some material, below.
 <span style="color:Maroon">**Eytan Katzav**</span>\.  (University of Jerusalem)\
 [The distribution of shortest path lengths in random networks.](./katav.pdf)
 
-<span style="color:Maroon">**Ofer Biham**</span>\.  (University of Jerusalem)\
+ <a class="btn btn-primary btn-sm" href="https://www.youtube.com/watch?v=pNq4qg0YBtA" role="button"> <i class="fab fa-youtube"></i> </a> <span style="color:Maroon">**Ofer Biham**</span>\.  (University of Jerusalem)\
 [The giant component, articulation points and bredges in configuration model networks.](./biham.pdf)
 
 <span style="color:Maroon">**Alessia Annibale**</span>\.  (King's College London)\
