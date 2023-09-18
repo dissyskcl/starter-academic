@@ -10,7 +10,7 @@ headless: true
 weight: 23
 
 title: 'News'
-subtitle: 'Last news from the group'
+subtitle: 'Latest from the group on X'
 
 content:
   # Page type to display. E.g. post, event, publication...
@@ -48,6 +48,6 @@ design:
     }
 </style>
 <p>
-<p class="mp"> <a class="twitter-timeline" data-width="100%" data-height="400" href="https://twitter.com/KCLDisorder?ref_src=twsrc%5Etfw">Tweets by KCLDisorder</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p class="mp"><a class="twitter-timeline" data-width="100%" data-height="400" href="https://twitter.com/kclmathematics?ref_src=twsrc%5Etfw">Tweets by kclmathematics</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p class="mp"> <a class="twitter-timeline" data-width="100%" data-height="400" href="https://twitter.com/KCLDisorder?ref_src=twsrc%5Etfw">KCLDisorder</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p class="mp"><a class="twitter-timeline" data-width="100%" data-height="400" href="https://twitter.com/kclmathematics?ref_src=twsrc%5Etfw">kclmathematics</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 </p>
