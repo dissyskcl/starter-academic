@@ -25,7 +25,7 @@ main:
   - name: Projects
     url: '#projects'
     weight: 60
-  - name: Minicourses
+  - name: Advanced courses
     url: '#lectures'
     weight: 70
   - name: Talks
