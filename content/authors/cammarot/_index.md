@@ -38,13 +38,13 @@ social:
 #  link: '/#contact'
 - icon: user
   icon_pack: fas
-  link: https://nms.kcl.ac.uk/peter.sollich/
+  link: https://phd.uniroma1.it/web/CHIARA-CAMMAROTA_nC3231_EN.aspx
 #- icon: envelope
 #  icon_pack: fas
 #  link: mailto:reimer.kuehn@kcl.ac.uk
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=m2RVgR0AAAAJ
+  link: https://scholar.google.com/citations?user=vsLT1BIAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
