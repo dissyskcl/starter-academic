@@ -62,6 +62,7 @@ image:
 * 9th of October, 2023
 * 16th of October, 2023
 * 13th of November, 2023
+
 </small>
 </div>
 <p style='text-align: justify;'>
