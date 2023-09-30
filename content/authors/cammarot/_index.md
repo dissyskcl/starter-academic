@@ -2,7 +2,7 @@
 # Display name
 title: Chiara Cammarota
 weight: 25
-role: Senior Lecturer, now Associate Professor at Sapienza University of Rome
+role: Formerly Senior Lecturer, now Associate Professor at Sapienza University of Rome
 
 # Is this the primary user of the site?
 superuser: false

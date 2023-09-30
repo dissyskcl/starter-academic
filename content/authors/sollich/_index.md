@@ -2,7 +2,7 @@
 # Display name
 title: Peter Sollich
 weight: 10
-role: Professor of Statistical Physics, now Professor of Non-Equilibrium Statistical Physics at the University of Göttingen
+role: Formerly Professor of Statistical Physics, now Professor of Non-Equilibrium Statistical Physics at the University of Göttingen
 
 # Is this the primary user of the site?
 superuser: false
