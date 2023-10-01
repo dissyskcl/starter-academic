@@ -19,13 +19,13 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-  - Low Temperature Properties of Glasses
-  - Phase Transitions in Disordered Systems
-  - Neural Networks
-  - Risk Modeling
-  - Random Matrices
-  - Networks
+# interests:
+#  - Low Temperature Properties of Glasses
+#  - Phase Transitions in Disordered Systems
+#  - Neural Networks
+#  - Risk Modeling
+#  - Random Matrices
+#  - Networks
 
 # Education to show in About widget
 education:
