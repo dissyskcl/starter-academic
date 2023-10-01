@@ -65,12 +65,6 @@ Prospective students may also find useful our brochure and student testimonial. 
 
 <a href="https://www.kcl.ac.uk/study/postgraduate/taught-courses/complex-systems-modelling-msc" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">**Apply**</a>
 
-
-
-<div class="alert alert-danger">
-  <i class="fas fa-exclamation-triangle"></i> <strong>Note:</strong> Due to Covid19, students will be given the opportunity to take this programme entirely remotely in 2020/21, if they wish to do so. All the course material will be made available online and there will be regular live interactions with lecturers and tutors.
-</div>
-
 ## Course pre-requisites
 The course has as entry requirement first or upper second class in **Mathematics** or **Physics**. Outstanding candidates from other degrees in quantitative subjects may be considered, provided they have had sufficient exposure to mathematical and physical sciences. Please check whether your background is suitable for this programme, by answering our [admission questionnaire](http://www.nms.kcl.ac.uk/CSMMSC/CSM_Questionnaire-2021.pdf).
 
