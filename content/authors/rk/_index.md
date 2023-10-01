@@ -2,13 +2,13 @@
 # Display name
 title: Reimer Kühn
 weight: 10
-role: Professor of Statistical Physics
+role: Formerly Professor of Statistical Physics, now retired
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-user_groups: ["Faculty"]
+user_groups: ["Former Faculty Members"]
 
 
 # Organizations/Affiliations to show in About widget
