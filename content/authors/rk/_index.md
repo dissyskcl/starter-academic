@@ -8,7 +8,7 @@ role: Formerly Professor of Statistical Physics, now retired
 superuser: false
 
 # Role/position/tagline
-user_groups: ["Former Faculty Members"]
+user_groups: ["Former Staff Members"]
 
 
 # Organizations/Affiliations to show in About widget
