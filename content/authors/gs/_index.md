@@ -2,13 +2,13 @@
 # Display name
 title: Gabriele Sicuro
 weight: 30
-role: Lecturer in Disordered Systems
+role: Formerly Lecturer in Disordered Systems, now Associate professor at University of Bologna
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-user_groups: ["Faculty"]
+user_groups: ["Former Staff Members"]
 
 
 # Organizations/Affiliations to show in About widget
@@ -19,10 +19,10 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-- Random combinatorial problems
-- Inference
-- Assignment and transportation problems
+#interests:
+#- Random combinatorial problems
+#- Inference
+#- Assignment and transportation problems
 
 # Education to show in About widget
 education:
