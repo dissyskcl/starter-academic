@@ -59,6 +59,30 @@ The Disordered Systems group is constantly engaged in the supervision of PhD can
 
 ## PhD projects
 
+<div class="alert alert-info" id="#huveneers">
+<a name="ivan"></a>
+  <i class="fa-solid fa-diagram-project"></i>
+  <h2 style="font-size:10;font-family:roboto"> Exploring the non-equilibrium states of matter</h2>
+ <div style="text-align: justify">
+ <strong> Supervisor: </strong>
+ <a href="mailto:francois.huveneers@kcl.ac.uk" class="card-text"> <i class="fas fa-envelope"></i> Dr François Huveneers</a>
+ 
+<strong> Status: </strong> Open.
+
+The studentships are funded for 3.5 years and include Tuition Fees, a Stipend at the [**UK Research Council rate**](https://www.ukri.org/what-we-do/developing-people-and-skills/find-studentships-and-doctoral-training/get-a-studentship-to-fund-your-doctorate/) (plus London weighting) and an allowance for research consumables and travel.
+
+  
+<hr class="rounded">
+<strong> Description &mdash; </strong> Equilibrium statistical mechanics offers a precise framework for understanding macroscopic physical systems in their long-term state, characterized by maximal entropy for given values of globally conserved quantities. This simple precept allows to determine precisely the equilibrium states. However, the most captivating and profound phenomena in nature often manifest in systems that have not yet attained equilibrium, or that are driven out of it through some external forcing. In these instances, we lack any fundamental guiding principle that would permit an accurate description of matter at the macroscopic level. Consequently, we find ourselves exploring specific examples in a quest for a comprehensive theory.
+
+The primary objective of this Ph.D. project is to delve into some of these examples using the tools of theoretical physics, mathematical physics and probability theory, with the emphasis on a precise and detailed understanding. Disordered interacting quantum systems offer a particularly rich phenomenology. In particular, the interplay between disorder and interactions may lead to the so called many-body localized phase where the approach to equilibrium is halted by emergent conserved quantities. The physical characteristics of this phase have been explored intensively since more than a decade and the field is probably reaching maturity from a phenomenological point of view. In contrast, the mathematical understanding remains very incomplete, reflecting into the fact that several fundamental aspects are still intensely debated. There is thus a clear need for the development of a better mathematical theory and the search for new techniques. A direct goal of this project will be to bring the theory on much firmer grounds. Moreover, from a broader perspective, the hope is that these contributions eventually lead to a more profound and cohesive understanding of non-equilibrium states of matter as a whole.
+<hr class="rounded">
+
+<strong> How to apply &mdash; </strong> The ideal candidate is a very motivated student with a solid background in either applied mathematics or theoretical physics. Most importantly, the successful candidate is expected to have some taste for deriving rigorous mathematical results. This position is open to both Home and Overseas students. Applicants should have a 2:1 or first-class undergraduate degree, or an MMath, MSci or Master’s degree with Merit and high grades in modules relating to the research area. A solid background in either applied mathematics or theoretical physics as well as some taste for deriving rigorous mathematical results are expected. To be considered for the position candidates must apply via [**King’s Apply online application system**](https://www.kcl.ac.uk/mathematics/postgraduate/research-degrees). Please apply for *Applied Mathematics Research: Disordered Systems/Financial Mathematics/Probability MPhil/PhD (Full-time)* and indicate *François Huveneers* as your desired supervisor, *Disordered Systems* as your desired research group and the project title in your application and all correspondence. A guide on other application details can be found [**here**](https://blogs.kcl.ac.uk/nms/2021/11/18/how-to-apply-for-a-mathematics-phd-at-kings-a-step-by-step-guide).
+
+</div>
+</div>
+
 <div class="alert alert-info" id="#ivan">
 <a name="ivan"></a>
   <i class="fa-solid fa-diagram-project"></i>
