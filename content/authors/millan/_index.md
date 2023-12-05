@@ -1,6 +1,6 @@
 ---
 # Display name
-title: TBA
+title: Rosalba García-Millán
 weight: 30
 role: Lecturer in Disordered Systems
 
@@ -38,19 +38,19 @@ organizations:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-#social:
+social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '/#contact'
 #- icon: user
 #  icon_pack: fas
 #  link: https://gabrielesicuro.wordpress.com/
-#- icon: envelope
-#  icon_pack: fas
+- icon: envelope
+  icon_pack: fas
 #  link: mailto:gabriele.sicuro@kcl.ac.uk
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=Lls7QvUAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=2DsbAq8AAAAJ
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/gabrielescr
